@@ -764,3 +764,14 @@ of no breakpoints at 5% significance)
 [image27]: {{ "/assets/images/image27.png" | relative_url }}
 
 [image28]: {{ "/assets/images/image28.png" | relative_url }}
+
+<script type="module">
+
+    const vizs = document.querySelectorAll('tableau-viz');
+
+    vizs.forEach(viz => {
+        viz.style.display = "block";
+        viz.style.width = "850px";
+        viz.style.height = "auto";
+    });
+</script>
