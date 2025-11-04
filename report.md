@@ -27,127 +27,129 @@ Oct 16, 2025
 
 # Table of Contents {#table-of-contents}
 
-[**Table of Contents	2**](#table-of-contents)
+[Table of Contents](#table-of-contents)
 
-[**Advanced Energy Homes (AEH) Program	4**](#advanced-energy-homes-aeh-program)
+[Advanced Energy Homes (AEH) Program](#advanced-energy-homes-aeh-program)
 
-[Background	4](#background)
+[Background](#background)
 
-[Program Design	4](#program-design)
+[Program Design](#program-design)
 
-[Eligibility	4](#eligibility)
+[Eligibility](#eligibility)
 
-[Enrollment	5](#enrollment)
+[Enrollment](#enrollment)
 
-[Measures	6](#measures)
+[Measures](#measures)
 
-[Site Remediation	7](#site-remediation)
+[Site Remediation](#site-remediation)
 
-[Terms	8](#terms)
+[Terms](#terms)
 
-[Program Implementation	8](#program-implementation)
+[Program Implementation](#program-implementation)
 
-[Period of Performance	8](#period-of-performance)
+[Period of Performance](#period-of-performance)
 
-[Methods	11](#methods)
+[Methods](#methods)
 
-[Data Sources	11](#data-sources)
+[Data Sources](#data-sources)
 
-[Energy Data Request Program (EDRP)	11](#energy-data-request-program-edrp))
+[Energy Data Request Program (EDRP)](#energy-data-request-program-edrp\))
 
-[Control Group Customer Sampling	11](#control-group-customer-sampling)
+[Control Group Customer Sampling](#control-group-customer-sampling)
 
-[Southern California Edison (SCE) Customer Data	12](#southern-california-edison-sce-customer-data)
+[Southern California Edison (SCE) Customer Data](#southern-california-edison-sce\)-customer-data)
 
-[Grid Electricity Greenhouse Gas Emissions Intensity Data	12](#grid-electricity-greenhouse-gas-emissions-intensity-data)
+[Grid Electricity Greenhouse Gas Emissions Intensity Data](#grid-electricity-greenhouse-gas-emissions-intensity-data)
 
-[SoCal Gas (SCG) Data	12](#socal-gas-\(scg\)-data)
+[SoCal Gas (SCG) Data](#socal-gas-scg\)-data)
 
-[Gas Combustion Greenhouse Gas Emissions Intensity Data	12](#gas-combustion-greenhouse-gas-emissions-intensity-data)
+[Gas Combustion Greenhouse Gas Emissions Intensity Data](#gas-combustion-greenhouse-gas-emissions-intensity-data)
 
-[Internal Program Data	13](#internal-program-data)
+[Internal Program Data](#internal-program-data)
 
-[Historical Weather Data	13](#historical-weather-data)
+[Historical Weather Data](#historical-weather-data)
 
-[Data Anonymization and Customer Privacy	13](#data-anonymization-and-customer-privacy)
+[Data Anonymization and Customer Privacy](#data-anonymization-and-customer-privacy)
 
-[Key Performance Indicators	13](#key-performance-indicators)
+[Key Performance Indicators](#key-performance-indicators)
 
-[Metered Energy Consumption	13](#metered-energy-consumption)
+[Metered Energy Consumption](#metered-energy-consumption)
 
-[Normalized Metered Energy Consumption	14](#normalized-metered-energy-consumption)
+[Normalized Metered Energy Consumption](#normalized-metered-energy-consumption)
 
-[Energy Bill Savings	14](#energy-bill-savings)
+[Energy Bill Savings](#energy-bill-savings)
 
-[Net Greenhouse Gas Emissions Reductions	14](#net-greenhouse-gas-emissions-reductions)
+[Net Greenhouse Gas Emissions Reductions](#net-greenhouse-gas-emissions-reductions)
 
-[Net-Zero Electricity Status	14](#net-zero-electricity-status)
+[Net-Zero Electricity Status](#net-zero-electricity-status)
 
-[Results	14](#results)
+[Results](#results)
 
-[Metered Energy Consumption	14](#metered-energy-consumption-1)
+[Metered Energy Consumption](#metered-energy-consumption-1)
 
-[Normalized Metered Energy Consumption	21](#normalized-metered-energy-consumption-1)
+[Normalized Metered Energy Consumption](#normalized-metered-energy-consumption-1)
 
-[Heating and Cooling Degree Hours	21](#heating-and-cooling-degree-hours)
+[Heating and Cooling Degree Hours](#heating-and-cooling-degree-hours)
 
-[Piecewise Linear Fits of Net Electricity Usage to Temperature	23](#piecewise-linear-fits-of-net-electricity-usage-to-temperature)
+[Piecewise Linear Fits of Net Electricity Usage to Temperature](#piecewise-linear-fits-of-net-electricity-usage-to-temperature)
 
-[Net Greenhouse Gas Emissions Reductions	25](#net-greenhouse-gas-emissions-reductions-1)
+[Net Greenhouse Gas Emissions Reductions](#net-greenhouse-gas-emissions-reductions-1)
 
-[Energy Bill Savings	30](#energy-bill-savings-1)
+[Energy Bill Savings](#energy-bill-savings-1)
 
-[Net-Zero Electricity Status	35](#net-zero-electricity-status-1)
+[Net-Zero Electricity Status](#net-zero-electricity-status-1)
 
-[Conclusions	38](#conclusions)
+[Conclusions](#conclusions)
 
-[Key Findings	38](#key-findings)
+[Key Findings](#key-findings)
 
-[Discussion	39](#discussion)
+[Discussion](#discussion)
 
-[Program Implementation Challenges	39](#program-implementation-challenges)
+[Program Implementation Challenges](#program-implementation-challenges)
 
-[Data Accessibility Challenges	40](#data-accessibility-challenges)
+[Data Accessibility Challenges](#data-accessibility-challenges)
 
-[**Community Solar (CS) Program	42**](#heading=h.n9hlxppvw2f7)
+[Community Solar (CS) Program](#community-solar-cs\)-program)
 
-[Background	42](#background-1)
+[Background](#background-1)
 
-[Program Design	42](#program-design-1)
+[Program Design](#program-design-1)
 
-[Enrollment	42](#enrollment-1)
+[Enrollment](#enrollment-1)
 
-[Measures	43](#measures-1)
+[Measures](#measures-1)
 
-[Terms	43](#terms-1)
+[Terms](#terms-1)
 
-[Methods	44](#methods-1)
+[Methods](#methods-1)
 
-[Data Sources	44](#data-sources-1)
+[Data Sources](#data-sources-1)
 
-[Southern California Edison (SCE)	44](#southern-california-edison-sce))
+[Southern California Edison (SCE)](#southern-california-edison-sce\))
 
-[Pivot Energy	44](#pivot-energy)
+[Pivot Energy](#pivot-energy)
 
-[Clean Power Alliance	44](#clean-power-alliance)
+[Clean Power Alliance](#clean-power-alliance)
 
-[Modeling PV System Outputs	44](#modeling-pv-system-outputs)
+[Modeling PV System Outputs](#modeling-pv-system-outputs)
 
-[Results	45](#results-1)
+[Results](#results-1)
 
-[Modeled System Outputs	45](#modeled-system-outputs)
+[Modeled System Outputs](#modeled-system-outputs)
 
-[Net Zero Electricity Status	46](#net-zero-electricity-status-2)
+[Net Zero Electricity Status](#net-zero-electricity-status-2)
 
-[Avoided GHG Emissions	51](#avoided-ghg-emissions)
+[Avoided GHG Emissions](#avoided-ghg-emissions)
 
-[Conclusions	51](#conclusions-1)
+[Conclusions](#conclusions-1)
 
-[Discussion	51](#discussion-1)
+[Key Findings](#key-findings-1)
 
-[**Appendix A	52**](#appendix-a)
+[Discussion](#discussion-1)
 
-[**Appendix B	53**](#appendix-b)
+[Appendix A](#appendix-a)
+
+[Appendix B](#appendix-b)
 
 # Advanced Energy Homes (AEH) Program {#advanced-energy-homes-aeh-program}
 
@@ -613,8 +615,6 @@ The principal challenges associated with the implementation of the BAAEC CS prog
 * **Multi-family households in the BAAEC project focus area use 51% less energy than their single-family counterparts on average. This suggests that similar CS programs which target the enrollment of MF households versus SF, can provide benefits to a larger pool of customers for the same investment in generation capacity.**
 
 ## Discussion {#discussion-1}
-
-#
 
 # Appendix A {#appendix-a}
 
