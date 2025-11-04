@@ -1,12 +1,11 @@
 ---
-title: Report
+title: EM&V Report
 layout: page
 ---
 
 <script type="module" src="https://public.tableau.ucla.edu/javascripts/api/tableau.embedding.3.latest.min.js"></script>
 
-# Evaluation, Measurement, and Verification (EM&V) Report
-## Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
+# Evaluation, Measurement, and Verification (EM&V) Report: Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
 
 **Authors:**
 
