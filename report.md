@@ -1,5 +1,6 @@
 ---
 title: Report
+layout: page
 ---
 # Evaluation, Measurement, and Verification (EM\&V) Report
 ## Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
