@@ -2,7 +2,7 @@
 title: Report
 layout: page
 ---
-# Evaluation, Measurement, and Verification (EM\&V) Report
+# Evaluation, Measurement, and Verification (EM&V) Report
 ## Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
 
 **Authors:**
@@ -149,8 +149,6 @@ Oct 16, 2025
 
 [**Appendix B	53**](#appendix-b)
 
-#
-
 # Advanced Energy Homes (AEH) Program {#advanced-energy-homes-(aeh)-program}
 
 ## Background {#background}
@@ -164,8 +162,6 @@ Per the requirements of the CEC’s Advanced Energy Community grant funding oppo
 1. A household income requirement \- commensurate with CARE/FERA program eligibility
 2. A geographic location requirement \- participant homes must be geographically located within census tracts designated as disadvantaged communities (DACs) according to the California Office of Environmental Health Hazard Assessment’s (OEHHAs) CalEnviroScreen 4.0 screening tool.
 3. A set of physical site suitability requirements \- participant homes must be physically suitable for the installation of associated program measures. Satisfaction of these requirements involved a series of in-person site visits to evaluate the condition of the home’s structure and electrical equipment as well as ensure that there were no unpermitted structures or major building code compliance issues.
-
-
 
 ![][image1]
 **Figure XX: Map of the geographic eligibility area for participants in the Advanced Energy Homes program (Red) relative to local municipal boundaries (Dark Gray).**
@@ -226,11 +222,11 @@ TEC’s homeowners participation form was necessary to authorize the use of CEC 
 
 As documented in the project’s Case Study report, there were a number of large scale events which created challenges for the implementation of various elements of the AEH program’s scope. Significantly, these factors contributed to a reduction in the number of participant households from what was originally envisioned as well as significant delays in the installation of specific measures relative to their originally planned timelines of execution. Both of these outcomes significantly impacted the feasibility of the UCLA team’s original technical plan for the evaluation, measurement, and verification of the AEH program’s performance.
 
-Due to the time constraints associated with the CEC’s grant funding and the need to provide reporting documentation to CEC well in advance of the project’s formal termination date, a cut-off date had to be specified regarding which AEH program enrollees would be included in this EM\&V analysis. The choice of this date reflected the need to provide UCLA staff with the time necessary to obtain required data from the local utilities and project partners, to analyze this data, and document as a set of reporting deliverables. Relative to this cutoff therefore, it is important to recognize both new enrollments in the AEH program as well as the implementation of new measures for existing program enrollees is still ongoing and will likely continue to be so well beyond the formal completion of the CEC’s contracted project funding period.
+Due to the time constraints associated with the CEC’s grant funding and the need to provide reporting documentation to CEC well in advance of the project’s formal termination date, a cut-off date had to be specified regarding which AEH program enrollees would be included in this EM&V analysis. The choice of this date reflected the need to provide UCLA staff with the time necessary to obtain required data from the local utilities and project partners, to analyze this data, and document as a set of reporting deliverables. Relative to this cutoff therefore, it is important to recognize both new enrollments in the AEH program as well as the implementation of new measures for existing program enrollees is still ongoing and will likely continue to be so well beyond the formal completion of the CEC’s contracted project funding period.
 
-For the purposes of this EM\&V analysis therefore, the AEH program participant cohort consists of a total of 34 single-family homes. The graphic on the left-hand portion of Figure XX, plots the requested program measures and their timelines of installation for each of these participant homes. Here each intervention is labeled as a colored point \- the absence of which indicates refusal by a participant. The timeline itself is also colored according to the set of dates which occurred prior to (green) or following from (red) the completion of all requested measures at each participant's home. The variable timing and duration of both these pre and post periods have important consequences for the EM\&V technical methodology, as limitations on the date range of the consumption data that was available for participant homes for the local utility providers resulted in corresponding limitations on the effective period of performance that was able to be evaluated for each home.
+For the purposes of this EM&V analysis therefore, the AEH program participant cohort consists of a total of 34 single-family homes. The graphic on the left-hand portion of Figure XX, plots the requested program measures and their timelines of installation for each of these participant homes. Here each intervention is labeled as a colored point \- the absence of which indicates refusal by a participant. The timeline itself is also colored according to the set of dates which occurred prior to (green) or following from (red) the completion of all requested measures at each participant's home. The variable timing and duration of both these pre and post periods have important consequences for the EM&V technical methodology, as limitations on the date range of the consumption data that was available for participant homes for the local utility providers resulted in corresponding limitations on the effective period of performance that was able to be evaluated for each home.
 
-The graphic on the right hand portion of Figure XX provides some deeper insights into this variable period of performance issue. In this plot, the total duration and number of repeat days in the year for which pre-intervention consumption data was available as a direct point of comparison for the post-intervention period, for each household, is shown. As the sub-plot to the right illustrates, only two participants had a full 12 month period-of-performance with multiple dates of pre-period comparison data for the majority of the year. For the rest of the participants, the effective periods of performance varied significantly both in duration and time of year (season). This unfortunate outcome has significant impacts for the interpretation for the results of various planned EM\&V analyses that will be called out in subsequent portions of this report.
+The graphic on the right hand portion of Figure XX provides some deeper insights into this variable period of performance issue. In this plot, the total duration and number of repeat days in the year for which pre-intervention consumption data was available as a direct point of comparison for the post-intervention period, for each household, is shown. As the sub-plot to the right illustrates, only two participants had a full 12 month period-of-performance with multiple dates of pre-period comparison data for the majority of the year. For the rest of the participants, the effective periods of performance varied significantly both in duration and time of year (season). This unfortunate outcome has significant impacts for the interpretation for the results of various planned EM&V analyses that will be called out in subsequent portions of this report.
 
 ![][image3]
 **Figure XX: The sub-plot at left depicts the timelines of completed AEH program interventions for each participant household. The  corresponding periods of performance are plotted for each, with pre- (Green) and post- (Red) implementation dates labeled. The sub-plot to the right illustrates the effective overlap between the pre-and-post periods, in terms of the numbers of corresponding dates (1 \- Blue, 2 \- Orange) as a series of labeled timelines.**
@@ -258,7 +254,7 @@ In an effort to minimize the amount of sensitive utility customer data requested
 
 This stratified random sample was designed such that there would be 500 distinct control group customers within each strata. These strata are defined as all of the unique pairwise combinations of the binary attributes listed above. Based upon the number of strata involved, this yielded a full control group sample of 8,000 customers.
 
-In order to synchronize the data requests which had to be separately submitted to SCE and SCG for this control group, data from the UCLA Energy Atlas database was used to separately identify customer account ID’s for the sampled customers relative to each utility. This is an important point to note for future such EM\&V analyses which seek to understand the effects of fuel-substitution programs in single-fuel IOU service territories. Without access to such privileged data, the set of sampled homes would have otherwise had to be identified for the utilities using address strings \- which would likely have significantly complicated the process of retrieving the requested data.
+In order to synchronize the data requests which had to be separately submitted to SCE and SCG for this control group, data from the UCLA Energy Atlas database was used to separately identify customer account ID’s for the sampled customers relative to each utility. This is an important point to note for future such EM&V analyses which seek to understand the effects of fuel-substitution programs in single-fuel IOU service territories. Without access to such privileged data, the set of sampled homes would have otherwise had to be identified for the utilities using address strings \- which would likely have significantly complicated the process of retrieving the requested data.
 
 #### Southern California Edison (SCE) Customer Data {#southern-california-edison-(sce)-customer-data}
 
@@ -292,7 +288,7 @@ AEH program participant data directly collected by TEC and the project’s affil
 
 ### Key Performance Indicators {#key-performance-indicators}
 
-In keeping with the remit of the CEC’s Advanced Energy Community grant funding opportunity and the scope of the TEC / UCLA phase II implementation proposal \- the following key performance indicators (KPIs) were evaluated as part of the AEH program’s EM\&V analysis.
+In keeping with the remit of the CEC’s Advanced Energy Community grant funding opportunity and the scope of the TEC / UCLA phase II implementation proposal \- the following key performance indicators (KPIs) were evaluated as part of the AEH program’s EM&V analysis.
 
 #### Metered Energy Consumption {#metered-energy-consumption}
 
@@ -453,7 +449,7 @@ Figures XX and XX below provides a different perspective on these same daily net
 
 ### Key Findings  {#key-findings}
 
-Acknowledging the significant limitations to this EM\&V analysis discussed throughout the report stemming from the small program participant cohort size, heterogeneous measure packages, variable implementation timelines, and limited temporal scope of available consumption data from the IOUs \- there are still several important findings which can be taken away from the evaluation of the AEH program relative to the high-level objectives of the Advanced Energy Communities grant funding opportunity’s research objectives. These include the following.
+Acknowledging the significant limitations to this EM&V analysis discussed throughout the report stemming from the small program participant cohort size, heterogeneous measure packages, variable implementation timelines, and limited temporal scope of available consumption data from the IOUs \- there are still several important findings which can be taken away from the evaluation of the AEH program relative to the high-level objectives of the Advanced Energy Communities grant funding opportunity’s research objectives. These include the following.
 
 * **Fuel-substitution measures (HWPHs and induction stoves) can confidently deliver significant reductions in overall customer energy bills and net-GHG emissions \- when implemented in conjunction with distributed energy resources (solar PV and battery energy storage).**
 
@@ -475,13 +471,13 @@ One of the main themes of the BAAEC project’s implementation phase has been th
 * Taking time to host multiple in-person site visits for property inspections for system design work and program eligibility verification
 * Accommodating uncertainties in the long term bill impacts (e.g. risking cost increases) from installed measures
 
-Added to these challenges facing the program’s eligible participants were other challenges facing program implementation partners seeking to deploy new technologies or implement fundamentally new business models. A detailed narrative discussion around the interplay of these forces over the course of the AEH program’s implementation period is provided in the project’s Case Study report. However, it is perhaps sufficient to say here that the net effects were significant delays in the implementation of certain program measures \- most specifically for the battery energy storage systems \- as well as reductions in the number of homes who were able to be enrolled in the program relative to levels that had initially been targeted in its conception. Both of these outcomes played important roles in our ability to derive concrete, statistically significant, findings within the scope of this EM\&V analysis.
+Added to these challenges facing the program’s eligible participants were other challenges facing program implementation partners seeking to deploy new technologies or implement fundamentally new business models. A detailed narrative discussion around the interplay of these forces over the course of the AEH program’s implementation period is provided in the project’s Case Study report. However, it is perhaps sufficient to say here that the net effects were significant delays in the implementation of certain program measures \- most specifically for the battery energy storage systems \- as well as reductions in the number of homes who were able to be enrolled in the program relative to levels that had initially been targeted in its conception. Both of these outcomes played important roles in our ability to derive concrete, statistically significant, findings within the scope of this EM&V analysis.
 
-Finally, in order to better accommodate the specific needs, as well as structural barriers, facing eligible AEH program participant households, the decision was taken to design the program as a suite of optional measures. While this decision was useful in accommodating potential participant households, it created fundamental comparability challenges for this type of EM\&V analysis \- as an already small cohort of participant households (34 total) would need to be further subdivided according to seven distinct measures packages in order to make direct, apples to apples, comparisons.
+Finally, in order to better accommodate the specific needs, as well as structural barriers, facing eligible AEH program participant households, the decision was taken to design the program as a suite of optional measures. While this decision was useful in accommodating potential participant households, it created fundamental comparability challenges for this type of EM&V analysis \- as an already small cohort of participant households (34 total) would need to be further subdivided according to seven distinct measures packages in order to make direct, apples to apples, comparisons.
 
 ### Data Accessibility Challenges  {#data-accessibility-challenges}
 
-A significant barrier to the EM\&V analysis developed in this report was the availability of historical consumption data from SCE and SCG over a long enough time period to span the full implementation of all of the program’s included measures. Specifically, both SCE and SCG referenced specific challenges associated with pulling customer interval data for more than three years prior to the date at which data requests are submitted. These challenges stem from data archival practices that are implemented to comply with corporate data retention policies. We recommend that CPUC provide guidance to the state’s IOUs about what the appropriate retention periods should be for customer usage data. The goal here should be to provide clarity to parties submitting data requests through the EDRP as to which requests should and should not be easily fulfilled such that they are not surprised by delays associated with accessing data that has been moved to archival formats or may even have been permanently deleted.
+A significant barrier to the EM&V analysis developed in this report was the availability of historical consumption data from SCE and SCG over a long enough time period to span the full implementation of all of the program’s included measures. Specifically, both SCE and SCG referenced specific challenges associated with pulling customer interval data for more than three years prior to the date at which data requests are submitted. These challenges stem from data archival practices that are implemented to comply with corporate data retention policies. We recommend that CPUC provide guidance to the state’s IOUs about what the appropriate retention periods should be for customer usage data. The goal here should be to provide clarity to parties submitting data requests through the EDRP as to which requests should and should not be easily fulfilled such that they are not surprised by delays associated with accessing data that has been moved to archival formats or may even have been permanently deleted.
 
 Another significant barrier for this type of analysis has to do with uniquely identifying customer premises across separate, single-fuel utilities, such as SCG and SCE. Each utility's backend data systems have their own customer account information and premise identification codes. These must be reconciled to reliably request gas and electricity consumption data for the same cohort of customers. The state would be well advised to pursue the development of a unified customer premise identification code that could be used as a shared key, amongst these single-fuel utilities, to better link siloed customer datasets and improve the experience of conducting this type of fuel-substitution program analysis going forwards.
 
@@ -531,7 +527,7 @@ The same sample of customer interval usage data which was obtained for use in th
 
 #### Pivot Energy {#pivot-energy}
 
-The project manager at Pivot Energy responsible for developing the BAAEC CS sites provided the UCLA research team with relevant details about the design characteristics of the project site that were necessary for conducting this EM\&V analysis. These details included the BAAEC project sites nameplate capacities (kW-DC) and inverter output ratings (kW-AC) as well as hourly interval production data for several other sites that could be used as a point of reference for the analysis.
+The project manager at Pivot Energy responsible for developing the BAAEC CS sites provided the UCLA research team with relevant details about the design characteristics of the project site that were necessary for conducting this EM&V analysis. These details included the BAAEC project sites nameplate capacities (kW-DC) and inverter output ratings (kW-AC) as well as hourly interval production data for several other sites that could be used as a point of reference for the analysis.
 
 #### Clean Power Alliance {#clean-power-alliance}
 
@@ -539,7 +535,7 @@ The program manager at the Clean Power Alliance responsible for administering th
 
 ### Modeling PV System Outputs {#modeling-pv-system-outputs}
 
-Due to delays associated with the construction and grid interconnection of the actual BAAEC CS generation sites, they were not able to receive permission to operate until after the window of IOU customer data availability used for this EM\&V analysis closed. Consequently, the decision was taken to use another Pivot Energy developed site \- of similar size, located within close proximity to the BAAEC CS generation sites, which was operational over the desired period of performance \- as a proxy reference for determining what the BAAEC sites output would most likely have been were they operational. Hourly interval production data for several candidate proxy sites were provided by Pivot Energy, of which, one was selected for use in this analysis.
+Due to delays associated with the construction and grid interconnection of the actual BAAEC CS generation sites, they were not able to receive permission to operate until after the window of IOU customer data availability used for this EM&V analysis closed. Consequently, the decision was taken to use another Pivot Energy developed site \- of similar size, located within close proximity to the BAAEC CS generation sites, which was operational over the desired period of performance \- as a proxy reference for determining what the BAAEC sites output would most likely have been were they operational. Hourly interval production data for several candidate proxy sites were provided by Pivot Energy, of which, one was selected for use in this analysis.
 
 The proxy site which was selected has a nameplate rating capacity of 106.08 kW-DC under standard test conditions. This DC nameplate capacity is derated to 74.88 kW-AC based upon the system’s installed inverters capacities and configuration. This latter figure was used to establish a normalized hourly output factor (kWh / kW-AC \* hour)  for the proxy site. This value was then multiplied by the combined BAAEC CS systems’ nameplate rating (670 kW-AC) to derive a modeled BAAEC CS generation output time series dataset (kWh / hour). Subsequent reported results are based upon a detailed analysis of this modeled output.
 
@@ -547,7 +543,7 @@ The proxy site which was selected has a nameplate rating capacity of 106.08 kW-D
 
 ### Modeled System Outputs {#modeled-system-outputs}
 
-Figure XX below plots the modeled output of the BAAEC system over the project’s full period of evaluation aggregated at hourly (top) and monthly (bottom) intervals. Note that the specific period of performance that will be used for subsequent EM\&V analyses is the 2024 calendar year. As Figure XX illustrates, based upon the hourly output of the proxy system, we anticipate that the BAAEC CS sites would have output between 47 and 138 MWh per month in 2024\. Annually, this expected system output would total to 1,163 MWh for 2024\. This value is thus the basis of comparison for the evaluation of the system’s capability to effectively net-out the electricity consumption of DAC-GT program enrollees.
+Figure XX below plots the modeled output of the BAAEC system over the project’s full period of evaluation aggregated at hourly (top) and monthly (bottom) intervals. Note that the specific period of performance that will be used for subsequent EM&V analyses is the 2024 calendar year. As Figure XX illustrates, based upon the hourly output of the proxy system, we anticipate that the BAAEC CS sites would have output between 47 and 138 MWh per month in 2024\. Annually, this expected system output would total to 1,163 MWh for 2024\. This value is thus the basis of comparison for the evaluation of the system’s capability to effectively net-out the electricity consumption of DAC-GT program enrollees.
 ![][image25]
 **Figure XX. Modeled BAAEC CS system output based upon scaled output data from  another Pivot Energy proxy system collected over the project’s full evaluation period. Note that the BAAEC CS program’s specific period of performance is only the 2024 calendar year.**
 
@@ -667,8 +663,6 @@ Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p\<0.05 means re
 of no breakpoints at 5% significance)
 \====================================================================================================
 
-#
-
 # Appendix B {#appendix-b}
 
 \====================================================================================================
@@ -724,7 +718,6 @@ alpha2          \-0.000110723     3.56e-05      \-3.1109       0.00187  \-0.0001
 Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p\<0.05 means reject null hypothesis
 of no breakpoints at 5% significance)
 \====================================================================================================
-
 
 [^1]:  California Self-Generation Incentive Program. Greenhouse Gas Emissions Signal. Accessed: August, 2025\. [https://content.sgipsignal.com/](https://content.sgipsignal.com/)
 
