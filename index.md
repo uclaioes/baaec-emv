@@ -767,11 +767,46 @@ of no breakpoints at 5% significance)
 
 <script type="module">
 
+  // import { TableauEventType } from 'https://public.tableau.ucla.edu/javascripts/api/tableau.embedding.3.latest.min.js';
+
+  window.addEventListener("load", (event) => {
+    console.log(`Event type is ${event.type}`);
+
     const vizs = document.querySelectorAll('tableau-viz');
+    // console.dir(vizs);
 
     vizs.forEach(viz => {
-        viz.style.display = "block";
-        viz.style.width = "850px";
-        viz.style.height = "auto";
+
+      viz.addEventListener('firstvizsizeknown', (event) => {
+        console.log(`Event type is ${event.type}`);
+        // event.currentTarget should equal viz.
+        console.log(viz.id);
+      });
+
+      viz.addEventListener('firstinteractive', (event) => {
+        console.log(`Event type is ${event.type}`);
+        // event.currentTarget should equal viz.
+        console.log(viz.id);
+
+        // console.log(viz.workbook.name);
+        console.log(viz.workbook.activeSheet.name);
+        // console.log(viz.workbook.activeSheet.url);
+
+        console.log('attribute', viz.getAttribute("width"), viz.getAttribute("height"));
+        console.log('property', viz.width, viz.height);
+        console.log('css', viz.style.width, viz.style.height);
+
+        console.log('iframe attribute', viz.iframe.getAttribute("width"), viz.iframe.getAttribute("height"));
+        console.log('iframe property', viz.iframe.width, viz.iframe.height);
+        console.log('iframe css', viz.iframe.style.width, viz.iframe.style.height);
+
+        // window.addEventListener('resize', () => {
+        //   viz.resize();
+        // });
+      });
     });
+  });
+
+  console.log('end');
+
 </script>
