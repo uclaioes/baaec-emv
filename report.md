@@ -29,7 +29,7 @@ Oct 16, 2025
 
 [**Table of Contents	2**](#table-of-contents)
 
-[**Advanced Energy Homes (AEH) Program	4**](#advanced-energy-homes-\(aeh\)-program)
+[**Advanced Energy Homes (AEH) Program	4**](#advanced-energy-homes-aeh-program)
 
 [Background	4](#background)
 
@@ -53,11 +53,11 @@ Oct 16, 2025
 
 [Data Sources	11](#data-sources)
 
-[Energy Data Request Program (EDRP)	11](#energy-data-request-program-\(edrp\))
+[Energy Data Request Program (EDRP)	11](#energy-data-request-program-edrp))
 
 [Control Group Customer Sampling	11](#control-group-customer-sampling)
 
-[Southern California Edison (SCE) Customer Data	12](#southern-california-edison-\(sce\)-customer-data)
+[Southern California Edison (SCE) Customer Data	12](#southern-california-edison-sce-customer-data)
 
 [Grid Electricity Greenhouse Gas Emissions Intensity Data	12](#grid-electricity-greenhouse-gas-emissions-intensity-data)
 
@@ -125,7 +125,7 @@ Oct 16, 2025
 
 [Data Sources	44](#data-sources-1)
 
-[Southern California Edison (SCE)	44](#southern-california-edison-\(sce\))
+[Southern California Edison (SCE)	44](#southern-california-edison-sce))
 
 [Pivot Energy	44](#pivot-energy)
 
@@ -149,7 +149,7 @@ Oct 16, 2025
 
 [**Appendix B	53**](#appendix-b)
 
-# Advanced Energy Homes (AEH) Program {#advanced-energy-homes-(aeh)-program}
+# Advanced Energy Homes (AEH) Program {#advanced-energy-homes-aeh-program}
 
 ## Background {#background}
 
@@ -235,7 +235,7 @@ The graphic on the right hand portion of Figure XX provides some deeper insights
 
 ### Data Sources {#data-sources}
 
-#### Energy Data Request Program (EDRP) {#energy-data-request-program-(edrp)}
+#### Energy Data Request Program (EDRP) {#energy-data-request-program-edrp}
 
 The EDRP is a CPUC mandated program which allows for academic researchers at qualifying state institutions to request energy consumption and other personally identifiable information (PII) for Investor Owned Utility customers. These data can only be used for legitimate research purposes with demonstrable rate payer benefits.
 
@@ -256,7 +256,7 @@ This stratified random sample was designed such that there would be 500 distinct
 
 In order to synchronize the data requests which had to be separately submitted to SCE and SCG for this control group, data from the UCLA Energy Atlas database was used to separately identify customer account ID’s for the sampled customers relative to each utility. This is an important point to note for future such EM&V analyses which seek to understand the effects of fuel-substitution programs in single-fuel IOU service territories. Without access to such privileged data, the set of sampled homes would have otherwise had to be identified for the utilities using address strings \- which would likely have significantly complicated the process of retrieving the requested data.
 
-#### Southern California Edison (SCE) Customer Data {#southern-california-edison-(sce)-customer-data}
+#### Southern California Edison (SCE) Customer Data {#southern-california-edison-sce-customer-data}
 
 Data requested from SCE included 15-minute interval metered usage data and customer account attributes (rate tariffs, assistance program enrollment, account activation/deactivation dates, NEM system outputs, etc) over a period of three years (2022/01/02 \- 2024/12/31). These dates spanned the full AEH program implementation period. While additional historical data would have been useful, IOU internal data retention policies limit the extent to which they are available through the EDRP. Furthermore, due to delays in the execution of this portion of the AEH scope, as documented in the project’s ethnographic case study, as well as the mechanics associated with the EDRP itself, it was challenging to determine a three year period would accommodate a minimum of one full year of pre-and-post program participation usage data.
 
@@ -521,7 +521,7 @@ With the recent move to auto-enrollment, the only customer obligation for partic
 
 ### Data Sources {#data-sources-1}
 
-#### Southern California Edison (SCE) {#southern-california-edison-(sce)}
+#### Southern California Edison (SCE) {#southern-california-edison-sce}
 
 The same sample of customer interval usage data which was obtained for use in the EM\&C analysis for the AEH program scope was also used here to evaluate the performance of the BAAEC CS system. We encourage the reader to reference the documentation for the stratified random sampling procedure that was used to construct this customer sample that is documented in that earlier portion of this same report.
 
