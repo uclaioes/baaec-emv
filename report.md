@@ -204,7 +204,7 @@ Data requested from SCE included 15-minute interval metered usage data and custo
 
 Data for the marginal (hourly) greenhouse gas emissions (GHG) associated with a unit of grid supplied electrical power within SCE’s service territory were obtained from WattTime. Access to these data are licensed through the Self-Generation Incentive Program (SGIP).[^1] These data are represented in kg of CO2 equivalents per kWh of grid power consumed and vary on an hourly basis. These marginal emissions intensity factors are computed on the basis of the changing mix of power generation resources whose output is being fed into the SCE grid at each hour. SCE territory specific MOER Version 2.0 values were used for this analysis. For AEH participant homes with installed rooftop PV systems who may be able to feed zero emissions power back to the grid as part of their net-billing arrangement, these marginal emissions intensity factors are used to compute net GHG reductions associated with these grid exports.
 
-#### SoCal Gas (SCG) Data {#socal-gas-(scg)-data}
+#### SoCal Gas (SCG) Data {#socal-gas-scg-data}
 
 Data requested from SCG included 1-hour interval metered gas usage data and customer account attributes over a period over the same three year period (2022/01/02 \- 2024/12/31).
 
