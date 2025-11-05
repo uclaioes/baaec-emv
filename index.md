@@ -709,61 +709,61 @@ of no breakpoints at 5% significance)
 
 [^5]:  Jin, Andrew S., and Kelly T. Sanders. "Characterizing residential sector load curves from smart meter datasets." *Applied Energy* 366 (2024): 123316\. [https://doi.org/10.1016/j.apenergy.2024.123316](https://doi.org/10.1016/j.apenergy.2024.123316)
 
-[image1]: {{ "/assets/images/image1.png" | relative_url }}
+[image1]: {{ "/assets/images/image27.png" | relative_url }}
 
-[image2]: {{ "/assets/images/image2.png" | relative_url }}
+[image2]: {{ "/assets/images/image18.png" | relative_url }}
 
-[image3]: {{ "/assets/images/image3.png" | relative_url }}
+[image3]: {{ "/assets/images/image25.png" | relative_url }}
 
-[image4]: {{ "/assets/images/image4.png" | relative_url }}
+[image4]: {{ "/assets/images/image6.png" | relative_url }}
 
-[image5]: {{ "/assets/images/image5.png" | relative_url }}
+[image5]: {{ "/assets/images/image15.png" | relative_url }}
 
-[image6]: {{ "/assets/images/image6.png" | relative_url }}
+[image6]: {{ "/assets/images/image12.png" | relative_url }}
 
-[image7]: {{ "/assets/images/image7.png" | relative_url }}
+[image7]: {{ "/assets/images/image10.png" | relative_url }}
 
-[image8]: {{ "/assets/images/image8.png" | relative_url }}
+[image8]: {{ "/assets/images/image26.png" | relative_url }}
 
-[image9]: {{ "/assets/images/image9.png" | relative_url }}
+[image9]: {{ "/assets/images/image3.png" | relative_url }}
 
-[image10]: {{ "/assets/images/image10.png" | relative_url }}
+[image10]: {{ "/assets/images/image5.png" | relative_url }}
 
-[image11]: {{ "/assets/images/image11.png" | relative_url }}
+[image11]: {{ "/assets/images/image7.png" | relative_url }}
 
-[image12]: {{ "/assets/images/image12.png" | relative_url }}
+[image12]: {{ "/assets/images/image2.png" | relative_url }}
 
-[image13]: {{ "/assets/images/image13.png" | relative_url }}
+[image13]: {{ "/assets/images/image16.png" | relative_url }}
 
-[image14]: {{ "/assets/images/image14.png" | relative_url }}
+[image14]: {{ "/assets/images/image24.png" | relative_url }}
 
-[image15]: {{ "/assets/images/image15.png" | relative_url }}
+[image15]: {{ "/assets/images/image23.png" | relative_url }}
 
-[image16]: {{ "/assets/images/image16.png" | relative_url }}
+[image16]: {{ "/assets/images/image28.png" | relative_url }}
 
-[image17]: {{ "/assets/images/image17.png" | relative_url }}
+[image17]: {{ "/assets/images/image13.png" | relative_url }}
 
-[image18]: {{ "/assets/images/image18.png" | relative_url }}
+[image18]: {{ "/assets/images/image14.png" | relative_url }}
 
-[image19]: {{ "/assets/images/image19.png" | relative_url }}
+[image19]: {{ "/assets/images/image1.png" | relative_url }}
 
-[image20]: {{ "/assets/images/image20.png" | relative_url }}
+[image20]: {{ "/assets/images/image4.png" | relative_url }}
 
-[image21]: {{ "/assets/images/image21.png" | relative_url }}
+[image21]: {{ "/assets/images/image19.png" | relative_url }}
 
-[image22]: {{ "/assets/images/image22.png" | relative_url }}
+[image22]: {{ "/assets/images/image9.png" | relative_url }}
 
-[image23]: {{ "/assets/images/image23.png" | relative_url }}
+[image23]: {{ "/assets/images/image20.png" | relative_url }}
 
-[image24]: {{ "/assets/images/image24.png" | relative_url }}
+[image24]: {{ "/assets/images/image22.png" | relative_url }}
 
-[image25]: {{ "/assets/images/image25.png" | relative_url }}
+[image25]: {{ "/assets/images/image11.png" | relative_url }}
 
-[image26]: {{ "/assets/images/image26.png" | relative_url }}
+[image26]: {{ "/assets/images/image17.png" | relative_url }}
 
-[image27]: {{ "/assets/images/image27.png" | relative_url }}
+[image27]: {{ "/assets/images/image8.png" | relative_url }}
 
-[image28]: {{ "/assets/images/image28.png" | relative_url }}
+[image28]: {{ "/assets/images/image21.png" | relative_url }}
 
 <script type="module">
 
