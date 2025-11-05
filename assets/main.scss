@@ -29,3 +29,10 @@ $on-palm:          600px;
 $on-laptop:        800px;
 
 @import "minima";
+
+// Custom styles for report.
+
+img {
+    width: 100%;  // Make images grow to the wrapper content width.
+    max-width: initial;  // Unset max-width because now width is set.
+}
