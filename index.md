@@ -105,7 +105,7 @@ Per the requirements of the CEC’s Advanced Energy Community grant funding oppo
 2. A geographic location requirement \- participant homes must be geographically located within census tracts designated as disadvantaged communities (DACs) according to the California Office of Environmental Health Hazard Assessment’s (OEHHAs) CalEnviroScreen 4.0 screening tool.
 3. A set of physical site suitability requirements \- participant homes must be physically suitable for the installation of associated program measures. Satisfaction of these requirements involved a series of in-person site visits to evaluate the condition of the home’s structure and electrical equipment as well as ensure that there were no unpermitted structures or major building code compliance issues.
 
-![][image1]
+![][image1]{: .wide}
 
 **Figure XX: Map of the geographic eligibility area for participants in the Advanced Energy Homes program (Red) relative to local municipal boundaries (Dark Gray).**
 
@@ -172,7 +172,7 @@ For the purposes of this EM&V analysis therefore, the AEH program participant co
 
 The graphic on the right hand portion of Figure XX provides some deeper insights into this variable period of performance issue. In this plot, the total duration and number of repeat days in the year for which pre-intervention consumption data was available as a direct point of comparison for the post-intervention period, for each household, is shown. As the sub-plot to the right illustrates, only two participants had a full 12 month period-of-performance with multiple dates of pre-period comparison data for the majority of the year. For the rest of the participants, the effective periods of performance varied significantly both in duration and time of year (season). This unfortunate outcome has significant impacts for the interpretation for the results of various planned EM&V analyses that will be called out in subsequent portions of this report.
 
-![][image3]
+![][image3]{: .wide}
 
 **Figure XX: The sub-plot at left depicts the timelines of completed AEH program interventions for each participant household. The  corresponding periods of performance are plotted for each, with pre- (Green) and post- (Red) implementation dates labeled. The sub-plot to the right illustrates the effective overlap between the pre-and-post periods, in terms of the numbers of corresponding dates (1 \- Blue, 2 \- Orange) as a series of labeled timelines.**
 
@@ -478,7 +478,7 @@ Additional criteria that are used by CPA to prioritize the among the set of cust
 
 Figure XX below shows the location of the two adjacent BAAEC CS sites located within the city of Pico Rivera. A five mile buffer (red) has been plotted around the two sites. The intersection of this buffer and the CPA service territory (purple) can generally be regarded as the geography which contains the set of CPA customers that would be considered eligible for enrollment in the DAC-GT as part of the project \- though obviously, in addition to this, other individualized screens would apply. As the figure shows, this buffer area intersects with the four census tracts that were originally designated as the BAAEC project’s eligibility area (though this was later significantly expanded). While representatives of the CPA indicated that they do specifically associate individual DAC-GT participant customers with specific generation projects, we do not know who these customers are and how many of them may specifically be located within the BAAEC tracts. This is a fundamental limitation of the data available for this analysis and a consequence of the CPA’s customer privacy protection policies.
 
-![][image24]
+![][image24]{: .wide}
 
 **Figure XX. Map illustrating the location of the two BAAEC Community Solar generation sites relative to the location of the project’s four focus area census tracts and the boundaries of Clean Power Alliance’s service territory.**
 

@@ -36,3 +36,17 @@ img {
     width: 100%;  // Make images grow to the wrapper content width.
     max-width: initial;  // Unset max-width because now width is set.
 }
+
+img.wide {
+    width: 150%;  // Scale based on content area of wrapper.
+    max-width: -webkit-calc(100vw - (#{$spacing-unit} * 2));
+    max-width: calc(100vw - (#{$spacing-unit} * 2));  // Limit to viewport width minus padding.
+    min-width: 100%;  // Make sure at least as wide as wrapper.
+    position: relative;
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+html, body, main {
+    overflow-x: hidden;  // Prevent invisible overflow caused by centering wide images.
+}
