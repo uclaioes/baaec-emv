@@ -32,7 +32,7 @@ Nov 14, 2025
 
 [Table of Contents](#table-of-contents)
 
-[Advanced Homes (AH) Program](#advanced-homes-\(ah\)-program)
+[Advanced Homes (AH) Program](#advanced-homes-ah-program)
 
 [Background](#background)
 
@@ -56,13 +56,13 @@ Nov 14, 2025
 
 [Data Sources](#data-sources)
 
-[Energy Data Request Program (EDRP)](#energy-data-request-program-\(edrp\))
+[Energy Data Request Program (EDRP)](#energy-data-request-program-edrp)
 
-[Southern California Edison (SCE) Customer Data](#southern-california-edison-\(sce\)-customer-data)
+[Southern California Edison (SCE) Customer Data](#southern-california-edison-sce-customer-data)
 
 [Grid Electricity Greenhouse Gas Emissions Intensity Data](#grid-electricity-greenhouse-gas-emissions-intensity-data)
 
-[SoCal Gas (SCG) Data](#socal-gas-\(scg\)-data)
+[SoCal Gas (SCG) Data](#socal-gas-scg-data)
 
 [Gas Combustion Greenhouse Gas Emissions Intensity Data](#gas-combustion-greenhouse-gas-emissions-intensity-data)
 
@@ -110,7 +110,7 @@ Nov 14, 2025
 
 [Data Accessibility Challenges](#data-accessibility-challenges)
 
-[Community Solar (CS) Program](#community-solar-\(cs\)-program)
+[Community Solar (CS) Program](#community-solar-cs-program)
 
 [Background](#background-1)
 
@@ -126,7 +126,7 @@ Nov 14, 2025
 
 [Data Sources](#data-sources-1)
 
-[Southern California Edison (SCE)](#southern-california-edison-\(sce\))
+[Southern California Edison (SCE)](#southern-california-edison-sce)
 
 [Control Group Customer Sampling](#control-group-customer-sampling)
 
@@ -164,7 +164,7 @@ Nov 14, 2025
 
 #
 
-# Advanced Homes (AH) Program {#advanced-homes-(ah)-program}
+# Advanced Homes (AH) Program {#advanced-homes-ah-program}
 
 ## Background {#background}
 
@@ -183,7 +183,7 @@ Per the requirements of the CEC’s Advanced Energy Community grant funding oppo
 ![][image1]
 **Figure 1: Map of the geographic eligibility area for participants in the Advanced Homes program (Red) relative to local municipal boundaries (Dark Gray).**
 
-The initial AH program design called for a geographic eligibility area that was restricted to a group of 4 contiguous DAC census tracts located within the Los Angeles County Unincorporated communities of Basset & Avocado Heights. However, due to challenges that were encountered in the recruitment of participants throughout the course of the project’s implementation phase it was decided, in conjunction with CEC, that this eligibility area be expanded to include 33 additional census tracts (for a total of 37\) located within one mile of the original set of 4\. Figure 1 shows a map of this final eligibility area relative to local municipal boundaries.
+The initial AH program design called for a geographic eligibility area that was restricted to a group of 4 contiguous DAC census tracts located within the Los Angeles County Unincorporated communities of Basset & Avocado Heights. However, due to challenges that were encountered in the recruitment of participants throughout the course of the project’s implementation phase it was decided, in conjunction with CEC, that this eligibility area be expanded to include 33 additional census tracts (for a total of 37) located within one mile of the original set of 4\. Figure 1 shows a map of this final eligibility area relative to local municipal boundaries.
 
 #### Enrollment {#enrollment}
 
@@ -251,7 +251,7 @@ In an ideal analysis, data would be available for each participant for at least 
 
 ### Data Sources {#data-sources}
 
-#### Energy Data Request Program (EDRP) {#energy-data-request-program-(edrp)}
+#### Energy Data Request Program (EDRP) {#energy-data-request-program-edrp}
 
 The EDRP is a CPUC mandated program which allows for academic researchers at qualifying state institutions to request energy consumption and other personally identifiable information (PII) for Investor Owned Utility customers. These data can only be used for legitimate research purposes with demonstrable rate payer benefits.
 
@@ -261,7 +261,7 @@ Once this notice has been submitted, and the corresponding waiting period served
 
 Two separate EDRP data requests were submitted as part of this project, one each to Southern California Edison (SCE) and SoCal Gas, the single fuel utility service providers for the 34 total AH participant households. In addition to requesting data for these AH program participants, we additionally requested similar data for a control group of non-participant residential customers served by each utility. These data were intended to be used as a point of comparison and context for our analyses of the CS participant customer data (discussed later).
 
-#### Southern California Edison (SCE) Customer Data {#southern-california-edison-(sce)-customer-data}
+#### Southern California Edison (SCE) Customer Data {#southern-california-edison-sce-customer-data}
 
 Data requested from SCE included 15-minute interval metered usage data and customer account attributes (rate tariffs, assistance program enrollment, account activation/deactivation dates, NEM system outputs, etc) over a period of three years (2022/01/02 - 2024/12/31). These dates spanned the full AH program implementation period. While additional historical data would have been useful, IOU internal data retention policies limit the extent to which they are available through the EDRP. Furthermore, due to delays in the execution of this portion of the AH scope, as documented in the project’s ethnographic case study, as well as the mechanics associated with the EDRP itself, it was challenging to determine a three year period would accommodate a minimum of one full year of pre-and-post program participation usage data.
 
@@ -269,7 +269,7 @@ Data requested from SCE included 15-minute interval metered usage data and custo
 
 Data for the marginal (hourly) greenhouse gas emissions (GHG) associated with a unit of grid supplied electrical power within SCE’s service territory were obtained from WattTime. Access to these data are licensed through the Self-Generation Incentive Program (SGIP).[^2] These data are represented in kg of CO2 equivalents per kWh of grid power consumed and vary on an hourly basis. These marginal emissions intensity factors are computed on the basis of the changing mix of power generation resources whose output is being fed into the SCE grid at each hour. SCE territory specific marginal emissions rates (MOER Version 2.0) were used for this analysis. For AH participant homes with installed rooftop PV systems who may be able to feed zero emissions power back to the grid as part of their net-billing arrangement, these marginal emissions intensity factors are used to compute net GHG reductions associated with these grid exports as well as to compute GHG reductions associated with reduced loads resulting from self-consumption.
 
-#### SoCal Gas (SCG) Data {#socal-gas-(scg)-data}
+#### SoCal Gas (SCG) Data {#socal-gas-scg-data}
 
 Data requested from SCG included 1-hour interval metered gas usage data and customer account attributes over a period over the same three year period (2022/01/02 - 2024/12/31).
 
@@ -508,7 +508,7 @@ A significant barrier to the EM&V analysis developed in this report was the avai
 
 Another significant barrier for this type of analysis has to do with uniquely identifying customer premises across separate, single-fuel utilities, such as SCG and SCE. Each utility's backend data systems have their own customer account information and premise identification codes. These must be reconciled to reliably request gas and electricity consumption data for the same cohort of customers. The state would be well advised to pursue the development of a unified customer premise identification code that could be used as a shared key, amongst these single-fuel utilities, to better link siloed customer datasets and improve the experience of conducting this type of fuel-substitution program analysis going forwards.
 
-# Community Solar (CS) Program {#community-solar-(cs)-program}
+# Community Solar (CS) Program {#community-solar-cs-program}
 
 ## Background {#background-1}
 
@@ -544,7 +544,7 @@ Beyond initial enrollment, the only customer obligation for participation in CPA
 
 ### Data Sources {#data-sources-1}
 
-#### Southern California Edison (SCE) {#southern-california-edison-(sce)}
+#### Southern California Edison (SCE) {#southern-california-edison-sce}
 
 The same sample of customer interval usage data which was obtained for use in the EM&V analysis for the AH program scope was also used here to evaluate the performance of the BAAEC CS system. We encourage the reader to reference the documentation for the stratified random sampling procedure that was used to construct this customer sample that is documented in that earlier portion of this same report.
 
@@ -596,7 +596,7 @@ Figure 28, below, depicts the results of such a comparison that was developed us
 
 The gray histogram illustrates the range of annual usage totals that would be expected from 10,000 sampled customer cohorts for which no categorical filters were applied. Thus, the gray histogram can be thought of as representing cohorts made up of a mixture of both SF and MF customers, in different ratios. Alternatively, the red and blue histograms depict the range of annual total usage values derived from 10,000 sampled customer cohorts that were restricted to SF and MF customers only, respectively. The differences in the distribution of usage values for each of these histograms reflects the significant differences in both the average and range of monthly usage values among SF and MF customers within the BAAEC project’s eligibility area.
 
-The solid black vertical line illustrates the total annual consumption that would be expected by multiplying the CPA’s 408 kWh / month average customer usage level by the total number of customers enrolled in the program (n = 360\) and the total number of months in the program’s period of performance (12). By comparison, the broken vertical plots the total annual output in 2024 for the model’s BAAEC system based upon a scaling of another local proxy system’s actual measured hourly output.
+The solid black vertical line illustrates the total annual consumption that would be expected by multiplying the CPA’s 408 kWh / month average customer usage level by the total number of customers enrolled in the program (n = 360) and the total number of months in the program’s period of performance (12). By comparison, the broken vertical plots the total annual output in 2024 for the model’s BAAEC system based upon a scaling of another local proxy system’s actual measured hourly output.
 
 According to this figure, we can see that the total combined usage for the CS-GT participant cohort, as derived from CPA’s quoted monthly average usage estimates, is significantly larger than the modeled BAAEC system’s output for 2024 (+34.01%). The overlap between the broken vertical line and the range of values spanned by the blue histogram, suggests that the BAAEC CS systems could likely accommodate a cohort consisting of 360 customers, providing that the majority (if not all) of those customers were multi-family property inhabitants. If a significant fraction of the 360 customers who enrolled in the CS-GT lived in single-family properties however, it is unlikely that the BAAEC systems’ output would be sufficient to fully net-out their annual electricity usage.
 ![][image30]
