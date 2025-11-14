@@ -1,6 +1,11 @@
-# Evaluation, Measurement, and Verification (EM&V) Report
+---
+title: EM&V Report
+layout: page
+---
 
-## Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
+<script type="module" src="https://public.tableau.ucla.edu/javascripts/api/tableau.embedding.3.latest.min.js"></script>
+
+# Evaluation, Measurement, and Verification (EM&V) Report: Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
 
 **Authors:**
 
@@ -170,7 +175,7 @@ Per the requirements of the CEC’s Advanced Energy Community grant funding oppo
 2. A geographic location requirement - participant homes must be geographically located within census tracts designated as disadvantaged communities (DACs) according to the California Office of Environmental Health Hazard Assessment’s (OEHHAs) CalEnviroScreen 4.0 screening tool.
 3. A set of physical site suitability requirements - participant homes must be physically suitable for the installation of associated program measures. Satisfaction of these requirements involved a series of in-person site visits to evaluate the condition of the home’s structure and electrical equipment as well as ensure that there were no unpermitted structures or major building code compliance issues.
 
-![][image1]
+![][image1]{: .wide}
 
 **Figure 1: Map of the geographic eligibility area for participants in the Advanced Homes program (Red) relative to local municipal boundaries (Dark Gray).**
 
@@ -235,7 +240,7 @@ For the purposes of this EM&V analysis therefore, the AH program participant coh
 
 In an ideal analysis, data would be available for each participant for at least a full year after an intervention, with at least two years of data available in the pre-intervention period. This would mean that for every date (month and day) of the post-intervention period, there would be 2 prior corresponding days to compare it to. The sub-plot on the right hand portion of Figure 3 illustrates the extent to which such data are available for each household is denoted by a set of blue/orange colored lines. These show the range of post-intervention dates for which there are either 0 (blank), 1 (blue), or  2 (orange) corresponding pre-intervention days that could be used as a basis of comparison. As the data illustrate, only two AH participants had a full 12 month period-of-performance with multiple dates of pre-period comparison data for the majority of the year. For the rest of the participants, the effective periods of performance varied significantly both in duration and time of year (season). This unfortunate outcome has significant impacts for the interpretation for the results of various planned EM&V analyses that will be called out in subsequent portions of this report.
 
-![][image3]
+![][image3]{: .wide}
 
 **Figure 3: The sub-plot at left depicts the timelines of completed AH program interventions for each participant household. The  corresponding periods of performance are plotted for each, with pre- (Green) and post- (Red) implementation dates labeled. The sub-plot to the right illustrates the effective overlap between the pre-and-post periods, in terms of the numbers of corresponding dates (1 - Blue, 2 - Orange) as a series of labeled timelines.**
 
@@ -387,23 +392,19 @@ Interactive Figure 12 describes the absolute changes in daily GHGs associated wi
 
 While greater reductions for the cohort can be seen in the months of June, July, August, and September, that effect is in part due to a higher number of participant households with available overlapping data between the pre- and post- periods during those particular months. The effects of these limitations in pre- and post- period consumption data availability can be explored in the upper graph by selecting or filtering individual households and examining the timing and duration of their respective periods of performance.
 
-![][image12]
+<tableau-viz id="tableauViz-ghglinegraphs" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/ghglinegraphs" width="700" height="820" toolbar="hidden"></tableau-viz>
 
 **Figure 12. Interactive Dashboard - Line graphs of individual and cohort absolute changes in daily total greenhouse gas (GHG) emissions in kg of CO2 equivalent colored from blue (negative changes) to orange (positive changes). The top graph features line graphs of daily absolute change in GHGs for each individual household. Individual participant graphs may be highlighted through selection or filtered using the dropdown menu. The value in the block to the right of the graph displays the total change in GHGs for the selected or filtered participant household for their entire available evaluation period. The bottom graph features the cohort’s total daily absolute change in GHGs with the value block on the right displaying the cohort’s total change for the entire effective evaluation period.**
 
 Figure 13 helps to demonstrate how the variable length of their individual periods of performance contributed to important differences in the calculated net GHG emissions changes across the AH participants. The majority of days available for evaluation are in the months from August to December, followed by summer months. The inconsistency results in an uneven aggregation of GHG changes at the cohort level. This effect is particularly noticeable on certain days in January and February, which show increases in GHGs despite only 6 households with available data.
 
-![][image13]
-
-![][image14]
+<tableau-viz id="tableauViz-AvailableDays" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/AvailableDays" width="700" height="500" toolbar="hidden"></tableau-viz>
 
 **Figure 13. Interactive Dashboard - Plot of the count of AH participants with available days in both the pre and post period (left axis) and the cohort’s absolute change in GHGs for each of those available days (right axis) colored by the cohort’s absolute daily change in GHGs for any particular, available day. Filter the graph based on the total change in GHGs using the slider in the lower left corner. Focus on particular measure packages by using the dropdown filter in the bottom right corner.**
 
 The histograms provided in interactive Figure 14 illustrate the distributions of the relative and absolute changes in daily GHGs with an emphasis on the different measure packages adopted. Both plots feature fairly normal distributions whose centers reflect overall net reductions in GHGs. This feature is consistent at both the full cohort level as well as among the individual measure packages. The centers of these component distributions generally reflect the distribution of the measure packages across the cohort (a greater number of GHG reduction days for measure packages in which more households partook).
 
-![][image15]
-
-![][image16]
+<tableau-viz id="tableauViz-histograms" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/histograms" width="780" height="450" toolbar="hidden"></tableau-viz>
 
 **Figure 14. Histograms of relative (left) and absolute (right) change in daily total GHG emissions by AH participant households and colored by measure package. Selecting a measure package or a block in the histogram will highlight all common measure packages and give the option to filter both histograms to a single measure package. Hovering over blocks in the histogram will reveal their exact change values.**
 
@@ -415,7 +416,7 @@ Figure 15 below plots daily greenhouse gas emissions from net-electricity usage 
 
 Interactive Figure 16 provides a similar view of household level daily GHG emissions except for each individual AH participant. These plots illustrate key measure implementation dates and can be filtered according to distinct measure packages. They also provide estimates of individual household level annual GHG emissions reductions.
 
-![][image18]
+<tableau-viz id="tableauViz-ghgheatmaps" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/ghgheatmaps" width="770" height="770" toolbar="hidden"></tableau-viz>
 
 **Figure 16. Heatmaps of daily Greenhouse Gas (GHG) emissions in kg of CO2 equivalents for individual AH program participant households. Negative GHG values (in blue) indicate net reductions in GHGs due to exports of electricity back to the grid. Positive GHG values are colored by an orange-red gradient. The bottom two rows of values represent the annual GHG totals (top) and the change in annual GHG totals from the previous year (bottom). Intervention labels indicate the PTO or install date for each of the participant’s measures (S-Solar, B-Battery, H-HPWH, I-Induction Stove). Selections in the top two dropdown menus will filter and update the heatmaps. Hovering over a particular day in the heatmap will reveal the date and the total GHG value for that day.**
 
@@ -469,7 +470,7 @@ Figure 21, below, plots the ratio of grid electricity deliveries to exports for 
 
 Figure 22, below, plots similar data for the number of AH program participant homes that achieved net-zero electricity status over the course of the project’s evaluation period, only instead at a daily time interval. Here we can see the highest concentration of participants were able to successfully net-out the daily grid electricity consumption in the months of April, May, and June. For a subset of the days within these months as many as 18 of the 34 homes achieved net-zero electricity status.
 
-![][image24]
+<tableau-viz id="tableauViz-HeatmapNZ" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/HeatmapNZ" width="450" height="550" toolbar="hidden"></tableau-viz>
 
 **Figure 22. Heatmap depicting the daily count of AH participant households that reached net-zero electricity status within each of their respective post-intervention periods. The lightest green color represents a single AH participant household reaching net-zero electricity status in a day while the darkest green represents a maximum of 18 AH participant households reaching net-zero electricity status in a single day (indicated with white asterisks).**
 
@@ -479,7 +480,7 @@ Another interesting feature of this plot is the fact that the homes with the sma
 
 Rooftop PV system sizing is a process that must respect various site-specific constraints - from roof size and orientation, to sources of shading and other obstructions. Based upon internal data collected by Grid Alternatives, we can report that the average AH program participant’s PV system was able to be sized to meet 91% of their historical on-site loads. These systems represented 3.96 kW-AC of nameplate capacity, on average. If significant new loads were introduced after a participant’s system had been installed, they may be insufficiently sized to reliably net-out the future demand for grid electricity. Of course, with this, as with all of the analysis discussed in this report, it is important to keep in mind the potentially confounding effects of variations in the periods of performance for each household, as previously discussed.
 
-![][image25]
+<tableau-viz id="tableauViz-NetZeroCnt" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/NetZeroCnt" width="700" height="350" toolbar="hidden"></tableau-viz>
 
 **Figure 23. Count days of net zero electricity status per AH participant household, colored by intervention and bins of 30 days.**
 
@@ -542,9 +543,9 @@ The CPA, as the implementor of this new CSGT, initially specified a set of custo
 | Participating Customer Benefits | 100% renewable energy & 20% off their otherwise applicable electric rate |
 | Project Location Requirements | In DACs within 5 miles of DAC(s) where subscribing customers reside |
 
-Figure 25, below, shows the location of the two adjacent BAAEC CS sites located within the city of Pico Rivera. A five mile buffer (red) has been plotted around the two sites. The intersection of this buffer and the CPA service territory (purple) can generally be regarded as the geography which contains the set of CPA customers that would be considered eligible for enrollment in the CSGT as part of the project - though obviously, in addition to this, other individualized screens would apply. As the figure shows, this buffer area intersects with the four census tracts that were originally designated as the BAAEC project’s eligibility area (though this was later significantly expanded). While representatives of the CPA indicated that they do specifically associate individual CSGT participant customers with specific generation projects, we do not know who these customers are and how many of them may specifically be located within the BAAEC tracts. This is a fundamental limitation of the data available for this analysis and a consequence of the CPA’s customer privacy protection policies.
+Figure 25, below, shows the location of the two adjacent BAAEC CS sites located within the city of Pico Rivera. A five mile buffer (red) has been plotted around the two sites. The intersection of this buffer and the CPA service territory (purple) can generally be regarded as the geography which contains the set of CPA customers that would be considered eligible for enrollment in the CSGT as part of the project - though obviously, in addition to this, other individualized screens would apply. As the figure shows, this buffer area intersects with the four census tracts that were originally designated as the BAAEC project’s eligibility area (though this was later significantly expanded). While representatives of the CPA indicated that they do specifically associate individual CSGT participant customers with specific generation projects, we do not know who these customers are and how many of them may specifically be located within the BAAEC tracts. This is a fundamental limitation of the data available for this analysis and a consequence of the CPA’s customer privacy protection.
 
-![][image27]
+![][image27]{: .wide}
 
 **Figure 25. Map illustrating the location of the two BAAEC Community Solar generation sites relative to the location of the project’s original and subsequently expanded focus areas, as well as the boundaries of Clean Power Alliance’s service territory.**
 
@@ -689,6 +690,7 @@ Without reviewing all of the party comments to this decision, the CPUC justified
 
 # Appendix A {#appendix-a}
 
+```
 ====================================================================================================
 Pre-Implementation - Electricity - Breakpoint Regression Results
 ====================================================================================================
@@ -743,9 +745,11 @@ alpha2              0.133287      0.00362       36.824      6.4e-296      0.1261
 Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p<0.05 means reject null hypothesis
 of no breakpoints at 5% significance)
 ====================================================================================================
+```
 
 # Appendix B {#appendix-b}
 
+```
 ====================================================================================================
 Pre-Implementation - Gas - Breakpoint Regression Results
 ====================================================================================================
@@ -799,6 +803,7 @@ alpha2          -0.000110723     3.56e-05      -3.1109       0.00187  -0.0001804
 Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p<0.05 means reject null hypothesis
 of no breakpoints at 5% significance)
 ====================================================================================================
+```
 
 [^1]:  Please see Case Study and Residential Energy Systems Report for details on delays
 
@@ -883,3 +888,50 @@ of no breakpoints at 5% significance)
 [image31]:
 
 [image32]:
+
+
+<script type="module">
+
+  // import { TableauEventType } from 'https://public.tableau.ucla.edu/javascripts/api/tableau.embedding.3.latest.min.js';
+
+  window.addEventListener("load", (event) => {
+    console.log(`Event type is ${event.type}`);
+
+    const vizs = document.querySelectorAll('tableau-viz');
+    // console.dir(vizs);
+
+    vizs.forEach(viz => {
+
+      viz.addEventListener('firstvizsizeknown', (event) => {
+        console.log(`Event type is ${event.type}`);
+        // event.currentTarget should equal viz.
+        console.log(viz.id);
+      });
+
+      viz.addEventListener('firstinteractive', (event) => {
+        console.log(`Event type is ${event.type}`);
+        // event.currentTarget should equal viz.
+        console.log(viz.id);
+
+        // console.log(viz.workbook.name);
+        console.log(viz.workbook.activeSheet.name);
+        // console.log(viz.workbook.activeSheet.url);
+
+        console.log('attribute', viz.getAttribute("width"), viz.getAttribute("height"));
+        console.log('property', viz.width, viz.height);
+        console.log('css', viz.style.width, viz.style.height);
+
+        console.log('iframe attribute', viz.iframe.getAttribute("width"), viz.iframe.getAttribute("height"));
+        console.log('iframe property', viz.iframe.width, viz.iframe.height);
+        console.log('iframe css', viz.iframe.style.width, viz.iframe.style.height);
+
+        // window.addEventListener('resize', () => {
+        //   viz.resize();
+        // });
+      });
+    });
+  });
+
+  console.log('end');
+
+</script>
