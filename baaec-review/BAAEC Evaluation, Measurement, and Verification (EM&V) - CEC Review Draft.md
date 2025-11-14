@@ -1,9 +1,3 @@
-#
-
-#
-
-#
-
 # Evaluation, Measurement, and Verification (EM&V) Report
 
 ## Bassett-Avocado Heights Advanced Energy Community (BAAEC) Project
@@ -162,8 +156,6 @@ Nov 14, 2025
 
 [Appendix B](#appendix-b)
 
-#
-
 # Advanced Homes (AH) Program {#advanced-homes-ah-program}
 
 ## Background {#background}
@@ -178,9 +170,8 @@ Per the requirements of the CEC’s Advanced Energy Community grant funding oppo
 2. A geographic location requirement - participant homes must be geographically located within census tracts designated as disadvantaged communities (DACs) according to the California Office of Environmental Health Hazard Assessment’s (OEHHAs) CalEnviroScreen 4.0 screening tool.
 3. A set of physical site suitability requirements - participant homes must be physically suitable for the installation of associated program measures. Satisfaction of these requirements involved a series of in-person site visits to evaluate the condition of the home’s structure and electrical equipment as well as ensure that there were no unpermitted structures or major building code compliance issues.
 
-
-
 ![][image1]
+
 **Figure 1: Map of the geographic eligibility area for participants in the Advanced Homes program (Red) relative to local municipal boundaries (Dark Gray).**
 
 The initial AH program design called for a geographic eligibility area that was restricted to a group of 4 contiguous DAC census tracts located within the Los Angeles County Unincorporated communities of Basset & Avocado Heights. However, due to challenges that were encountered in the recruitment of participants throughout the course of the project’s implementation phase it was decided, in conjunction with CEC, that this eligibility area be expanded to include 33 additional census tracts (for a total of 37) located within one mile of the original set of 4. Figure 1 shows a map of this final eligibility area relative to local municipal boundaries.
@@ -245,6 +236,7 @@ For the purposes of this EM&V analysis therefore, the AH program participant coh
 In an ideal analysis, data would be available for each participant for at least a full year after an intervention, with at least two years of data available in the pre-intervention period. This would mean that for every date (month and day) of the post-intervention period, there would be 2 prior corresponding days to compare it to. The sub-plot on the right hand portion of Figure 3 illustrates the extent to which such data are available for each household is denoted by a set of blue/orange colored lines. These show the range of post-intervention dates for which there are either 0 (blank), 1 (blue), or  2 (orange) corresponding pre-intervention days that could be used as a basis of comparison. As the data illustrate, only two AH participants had a full 12 month period-of-performance with multiple dates of pre-period comparison data for the majority of the year. For the rest of the participants, the effective periods of performance varied significantly both in duration and time of year (season). This unfortunate outcome has significant impacts for the interpretation for the results of various planned EM&V analyses that will be called out in subsequent portions of this report.
 
 ![][image3]
+
 **Figure 3: The sub-plot at left depicts the timelines of completed AH program interventions for each participant household. The  corresponding periods of performance are plotted for each, with pre- (Green) and post- (Red) implementation dates labeled. The sub-plot to the right illustrates the effective overlap between the pre-and-post periods, in terms of the numbers of corresponding dates (1 - Blue, 2 - Orange) as a series of labeled timelines.**
 
 ## Methods {#methods}
@@ -324,11 +316,13 @@ Figure 4 plots absolute trends in metered gas and net electricity consumption fo
 Even when taking these important caveats into account, significant reductions in both the total demand for both gas and grid supplied electricity among the AH participant cohort are evident by the end of the data availability period. For example, in the monthly data sub-plot, we can see that both the maximum monthly demand for grid electricity and the minimum monthly demand for gas in 2024 were roughly half the corresponding range of values observed in the two previous years. On the electricity side, this is likely due to the coincidence of high solar PV system outputs in warmer summer months when there are traditionally elevated cooling loads.  On the gas side, the large reductions in minimum, or “baseload,” monthly gas usage likely stem from the extensive adoption of electrical heat-pump water heating units among the participant cohort. This tracks with results from the CEC’s 2019 Residential Appliance Saturation Survey (RASS) which found that water heating alone typically comprises roughly 59% of total residential gas demand, on average, statewide.[^5]
 
 ![][image4]
+
 **Figure 4. Monthly and annual total gas and net electricity consumption for the entire AH cohort expressed in common energy units (MM-BTU).**
 
 Figure 5 provides a more granular view of some of these same temporal trends in energy usage among the AH participant cohort, but instead plots household level consumption time series of both gas and net electricity consumption relative to the timing of the intervention dates for key program measures. The two sub-plots on the bottom of the figure show net electricity and gas consumption trends for each participant household, with the average usage for all participant households plotted as a heavy black line. Likewise, the set of four sub-plots shown at the top of the figure illustrate the timelines of intervention completion dates for each measure type. In these sub-plots the individual dates of completion for each household are shown as gray vertical lines, with the cumulative density of adoptions plotted as a colored shaded area for each. For each of these measure specific sub-plots, the median measure intervention date, e.g. the date by which 50% of program participants had received the measure, is plotted as a thick vertical line. These lines extend down to the corresponding energy usage plots below to give a sense of the rate of progress of implementation for the different types of measures.
 
 ![][image5]
+
 **Figure 5. Granular time series plots of individual AH participant household net electricity and gas usage relative to the timing of implementation of different AH program measures. Average household usage rates are plotted as a thick black line relative to each usage time series. Likewise, the median dates of completion for each measure category are plotted as thick colored vertical lines, relative to each measure time series. These median dates are extended as broken lines relative to each usage time series for context. Negative electricity usage values indicate net-exports of power back to the grid.**
 
 One feature of note in Figure 5 is the high degree of variability in the monthly gas and electricity consumption levels among AH program cohort households. A portion of this variation can likely be explained by differences in the effective occupancy levels (which were not controlled for) among the homes as well as potential differences in individual preferences/demands for various types of electricity and gas end-use energy services. Another feature of Figure 5 worth noting is that the staggered implementation of different load modifying measures, several of which have strong seasonal effects, need to be taken into account when attempting to evaluate program performance for the full participant cohort. For most of the program participants, the first measure which they received was a rooftop solar PV system, followed later by the potential addition of new electrical loads (HPWHs and/or induction stoves) and ultimately, the installation of a BESS. Variability in the timing and sequencing of these interventions among the participants, which is an unavoidable reality in the implementation of this type of program, makes it challenging to assess the comprehensive effects of the technologies on household energy consumption and expenditures, particularly during the intermediate periods before all of the measures were implemented. We encourage the reader to take note of this feature of the program’s implementation when interpreting these and subsequent findings.
@@ -337,20 +331,22 @@ Figure 6, below, seeks to illustrate how different combinations of measures impa
 
 Relative to changes in electricity usage patterns, there are a number of features worth noting in Figure 6. The first is that for all participants who received battery energy storage systems (sub-plots d, e, f, and g in the figure), net exports of power back to the grid were either significantly reduced or eliminated altogether. Furthermore, in instances where net exports did occur relative to this group, their timing was concentrated around 4-5 PM. This is consistent with a set of battery discharge behaviors that would be expected from an effort to perform arbitrage on time-of-use rate tariffs. The significant reductions in the volume of net exports back to grid indicates that, for a majority of these customers, their solar + battery systems were appropriately sized relative to their loads, such that they could be used to effectively shed on-site demand at peak hours without overproducing. By contrast, for all of the participant homes whose measure packages did not include a battery storage system (sub-plots a, b, and c in the figure), significant net-exports of power were observed over the hours from 7AM - 3PM. This is regardless of whether other measures introducing major new electrical loads were adopted by the home as part of the program. This is problematic as this pattern of loads only contributes to the much maligned “duck curve” - a characteristic pattern of consumption behaviors observable at the system level which demands fast ramping, but typically low capacity factor, generation assets be in place to service the resulting net loads. [^6] Relative to changes in gas use, as expected, all of the most significant differences between the pre- and -post implementation periods were associated with participant homes that received some combination of fuel-substitution measures. Here, the most significant reductions in gas use were observed among households who received measure package (c) which consisted of rooftop solar PV, an induction stove, and a HPWH. Here again though, caution should be exercised interpreting some of these pre- and post- intervention changes given the relatively small effective sample sizes involved.
 
-**![][image6]**
+![][image6]
 
 **Figure 6. Average hourly electricity (orange, left column) and gas (blue, right column) usage in kBTU for the Pre-Implementation (dotted lines) and Post-Implementation (solid lines) periods aggregated by measure package.**
 
 Figure 7 below provides a more granular view of consumption for the AH program participant cohort derived from household level hourly interval meter data. In both sub-plots, the thin stroked lines depicted consumption levels for each individual participant household over each year of the evaluation window (2022-2024). Likewise, the thick shaded lines show the average daily usage levels for all of the participants in the cohort for each year. The sub-plot at the top of the figure shows the full range of variation in these daily average consumption levels across the cohort. In this upper sub-plot, we can see that reported values range from roughly -40 to +45 kBTU per day (with negative values reflecting grid exports). The sub-plot at the bottom of the figure shows a zoomed in view of the same data, but instead focusing on the narrow range of variation in the averages for each year for the entire cohort, -1 to almost 7 kBTU per day.
 
 ![][image7]
+
 **Figure 7. Daily net electricity consumption in kBTU per AH Participant Household colored by year. Average daily net electricity consumption for the entire cohort is plotted in thick solid lines. The top graph features the entire extent of usage while the bottom graph has a truncated y-axis to highlight daily change in the cohort average. Negative usage values indicate net-exports of power back to the grid.**
 
 There are several interesting results which can be gleaned from these plots. The first is that even for a small participant cohort such as this (n = 34), the range of variation in individual average daily net-electricity loads can vary 5x more than the average across the entire cohort. This speaks to the level of variability in the energy demands among individual households, even ones which share important structural characteristics, such as those depicted here which all met the eligibility requirements for participation in the AH program. Another important finding visible from these plots is that at the individual household level the largest single day net-exports of power occur in the summer months of August and September. However, across the entire cohort, more power tends to be exported in the spring months of April and May - a trend that is consistent with previously published findings about seasonal variability in the output of residential solar PV systems relative to household electricity demands.[^7] Here again, the large single day exports for specific customers in those two summer months is due to the work of the battery storage systems discharging for TOU rate arbitrage.
 
 Figure 8, below, plots similar data for the AH program participant cohort’s daily gas consumption. Here again, in the upper sub-plot, we can see that there is an even larger range of variation in household level daily gas usage rates than for electricity. This variation is particularly in winter months with high heating energy demands, suggesting a wide range of variance in the thermal performance of participant homes’ thermal shells as well as in the end-use energy efficiency of their installed gas heating equipment. Looking at the lower sub-plot in this same figure, we can see that the implementation of fuel substitution measures associated with the AH program did not significantly alter the structure of seasonal variation in gas demand between the three years, Rather, these measures appear to have effected uniform demand reductions throughout the entire year (2024). This is consistent with the fact that the program’s two fuel-substitution measures, HPHWs and induction stoves, are not associated with significant seasonal variations in their gas use.
 
-**![][image8]**
+![][image8]
+
 **Figure 8. Daily gas consumption in kBTU per AH Participant Household colored by year. Average daily gas consumption for the entire cohort is plotted in thick solid lines. The top graph features the entire extent of usage while the bottom graph has a truncated y-axis to highlight daily change in the cohort average.**
 
 ### Normalized Metered Energy Consumption {#normalized-metered-energy-consumption-1}
@@ -364,6 +360,7 @@ For computing HDHs, the temperature threshold derived from pre-intervention AH p
 The subplot at the top of Figure 9 shows the cumulative number of CDHs (Blue) and HDHs (Red) by month over the project’s time period of evaluation. The subplot at the bottom of the figure shows these same data aggregated on an annual basis. According to these plots 2022 appears to have been an unusually hot year (at least relative to this time period), containing 42% more CDHs than the average number which occurred in 2023 & 2024. This suggests that cooling related energy demands during 2022 should likely have been significantly higher than in the subsequent two years. By comparison, the total number of HDHs across the three years are relatively consistent, only deviating by a maximum of 15% across the three years in the period of evaluation.
 
 ![][image9]
+
 **Figure 9. Cumulative total monthly and annual heating degree hours (HDHs) and cooling degree hours (CDHs) for the AH program eligibility area computed using temperature thresholds derived from an analysis of program participant historical energy usage data.**
 
 #### Piecewise Linear Fits of Net Electricity Usage to Temperature {#piecewise-linear-fits-of-net-electricity-usage-to-temperature}
@@ -373,12 +370,15 @@ To assess whether the AH program’s measures resulted in normalized metered ene
 There are several features of note in this plot. Firstly, the pre- period fits exhibit the standard relationship between temperature and energy use, whereby at lower temperature ranges, energy usage is roughly constant (e.g. temperature independent). However, after some threshold temperature breakpoint, incremental demands of energy for cooling creates a positively sloped regression fit component. For the pre- period fit, the identified breakpoint value, after which temperature dependent net-electricity consumption occurs, was found to be 19.47 ℃ / 67.04 ℉. As discussed previously, this was the value used for the computation of CDHs for this analysis.
 
 By contrast, the piecewise fit derived from the post-implementation period data is significantly different. For example, the first component of this fit has a negative slope, indicating increasing net-electricity usage with decreasing temperatures. This is attributable to the significant number of homes which received new HPWHs as substitutes for previously existing gas powered equipment. Additionally, in the post-implementation period fit the breakpoint temperature value identified is significantly higher - at 27.53 ℃ / 81.55 ℉. This is a result of the rooftop solar PV systems’ energy production, with those systems’ outputs being correlated with increased temperatures. Here, the model fit indicates that at temperatures above this breakpoint value, most homes would not be expected to be self-sufficient in terms of power supply and thus would require the net-consumption of additional grid supplied power to supply increasing cooling related energy demands.
+
 ![][image10]
+
 **Figure 10. Two-component piecewise linear regression model fit for the relationship between hourly net-electricity consumption and temperature for the AH participant cohort in the pre- (Red) and post- (Blue) program participation periods. The breakpoint temperature threshold for each model is plotted as a solid vertical line with corresponding 95% confidence interval bounds. Negative usage values indicate net-exports of power back to the grid.**
 
 Figure 11, below, plots similar results for a set of two-component piecewise linear model fits applied to the relationship between hourly gas consumption and temperatures for the AH participant cohort. Here we can see that the structural characteristics of the relationship between these variables does not appear to have been altered by program participation - which is consistent with expectations based upon the program’s suite of measures. The main effects of program participation on gas consumption are a reduction in the slope of the temperature dependent component occurring at low temperature ranges as well as a reduction in the average magnitude of the non-temperature dependent (e.g. base load) component of participant household gas use in the post-implementation period fit. Both of these can directly be attributed to the two gas fuel substitution measures implemented as part of the program, one of which has a stronger seasonal usage component (the HPWH) and the other of which does not (the induction stove).
 
 ![][image11]
+
 **Figure 11. Two-component piecewise linear regression model fit for the relationship between hourly gas consumption and temperature for the AH participant cohort in the pre- (Red) and post- (Blue) program participation periods. The breakpoint temperature threshold for each model is plotted as a solid vertical line with corresponding 95% confidence interval bounds.**
 
 ### Net Greenhouse Gas Emissions Reductions {#net-greenhouse-gas-emissions-reductions-1}
@@ -386,6 +386,7 @@ Figure 11, below, plots similar results for a set of two-component piecewise lin
 Interactive Figure 12 describes the absolute changes in daily GHGs associated with both electricity and gas for individual AH participant households as well as the aggregated change for the entire AH program participant cohort. These changes are computed daily to accurately capture values across the variable length pre- and post- implementation periods associated with each individual participant. The sub-plot at the top of Figure 12 illustrates the significant variation in net changes in GHGs that exists at the household level. Despite variation, the data in this plot demonstrates that each participant household experienced net reductions at some point in time during their effective period of performance, with the overwhelming majority of households experiencing total net reductions across the full period-of-performance, and only two households experiencing net emissions increases overall. At the cohort level, greenhouse gas emissions were reduced by a total of 28,184 kg CO2-eq across the cumulative post-implementation periods of performance for all participants. At this cohort level, there were only a small number of individual days in which net GHGs emissions increases were observed. These were generally associated with either extreme high or low temperature periods resulting in high cooling or heating demands - in the case of homes which received new electric water heating equipment. During extreme load conditions, the grid must call into service “peaker” generation assets which can have significantly higher GHG emissions intensities than the average resource mix. These higher marginal emissions intensities can be a more significant contributor to observed GHG emissions increases than changes in the absolute amount of energy consumed over a given period.
 
 While greater reductions for the cohort can be seen in the months of June, July, August, and September, that effect is in part due to a higher number of participant households with available overlapping data between the pre- and post- periods during those particular months. The effects of these limitations in pre- and post- period consumption data availability can be explored in the upper graph by selecting or filtering individual households and examining the timing and duration of their respective periods of performance.
+
 ![][image12]
 
 **Figure 12. Interactive Dashboard - Line graphs of individual and cohort absolute changes in daily total greenhouse gas (GHG) emissions in kg of CO2 equivalent colored from blue (negative changes) to orange (positive changes). The top graph features line graphs of daily absolute change in GHGs for each individual household. Individual participant graphs may be highlighted through selection or filtered using the dropdown menu. The value in the block to the right of the graph displays the total change in GHGs for the selected or filtered participant household for their entire available evaluation period. The bottom graph features the cohort’s total daily absolute change in GHGs with the value block on the right displaying the cohort’s total change for the entire effective evaluation period.**
@@ -393,6 +394,7 @@ While greater reductions for the cohort can be seen in the months of June, July,
 Figure 13 helps to demonstrate how the variable length of their individual periods of performance contributed to important differences in the calculated net GHG emissions changes across the AH participants. The majority of days available for evaluation are in the months from August to December, followed by summer months. The inconsistency results in an uneven aggregation of GHG changes at the cohort level. This effect is particularly noticeable on certain days in January and February, which show increases in GHGs despite only 6 households with available data.
 
 ![][image13]
+
 ![][image14]
 
 **Figure 13. Interactive Dashboard - Plot of the count of AH participants with available days in both the pre and post period (left axis) and the cohort’s absolute change in GHGs for each of those available days (right axis) colored by the cohort’s absolute daily change in GHGs for any particular, available day. Filter the graph based on the total change in GHGs using the slider in the lower left corner. Focus on particular measure packages by using the dropdown filter in the bottom right corner.**
@@ -400,6 +402,7 @@ Figure 13 helps to demonstrate how the variable length of their individual perio
 The histograms provided in interactive Figure 14 illustrate the distributions of the relative and absolute changes in daily GHGs with an emphasis on the different measure packages adopted. Both plots feature fairly normal distributions whose centers reflect overall net reductions in GHGs. This feature is consistent at both the full cohort level as well as among the individual measure packages. The centers of these component distributions generally reflect the distribution of the measure packages across the cohort (a greater number of GHG reduction days for measure packages in which more households partook).
 
 ![][image15]
+
 ![][image16]
 
 **Figure 14. Histograms of relative (left) and absolute (right) change in daily total GHG emissions by AH participant households and colored by measure package. Selecting a measure package or a block in the histogram will highlight all common measure packages and give the option to filter both histograms to a single measure package. Hovering over blocks in the histogram will reveal their exact change values.**
@@ -407,11 +410,12 @@ The histograms provided in interactive Figure 14 illustrate the distributions of
 Figure 15 below plots daily greenhouse gas emissions from net-electricity usage (left), gas (center),  and net-electricity + gas usage (right) for the entire AH participant cohort. These heatmaps illustrate changes in GHG emissions at different times throughout the year. At the cohort level, we can see significant GHG reductions occurred between 2022/2023 and 2024, the year which most closely coincides with full implementation of all AH program measures. Relative to the gas combustion related GHG emissions depicted, it is worth noting here the daily variations shown essentially reflect daily changes in gas demand. This is because a constant GHG emissions factor was used in this case. By contrast, the daily variations in GHG emissions from electricity reflect temporal changes in both the net consumption and emissions intensity of grid electricity.
 
 ![][image17]
+
 **Figure 15. Heatmaps of daily Greenhouse Gas (GHG) emissions in kg of CO2 equivalents for the AH program participant household cohort. Negative GHG values (in blue) indicate net reductions in GHGs due to exports of electricity back to the grid. Positive GHG values are colored by an orange-red gradient. The minimum cohort daily GHG value is indicated with a black asterisk (June of 2024, Electricity) and the maximum value is indicated with a white asterisk (September of 2022, Electricity + Gas). The bottom two rows of values represent the annual GHG totals (top) and the change in annual GHG totals from the previous year (bottom).**
 
 Interactive Figure 16 provides a similar view of household level daily GHG emissions except for each individual AH participant. These plots illustrate key measure implementation dates and can be filtered according to distinct measure packages. They also provide estimates of individual household level annual GHG emissions reductions.
 
-**![][image18]**
+![][image18]
 
 **Figure 16. Heatmaps of daily Greenhouse Gas (GHG) emissions in kg of CO2 equivalents for individual AH program participant households. Negative GHG values (in blue) indicate net reductions in GHGs due to exports of electricity back to the grid. Positive GHG values are colored by an orange-red gradient. The bottom two rows of values represent the annual GHG totals (top) and the change in annual GHG totals from the previous year (bottom). Intervention labels indicate the PTO or install date for each of the participant’s measures (S-Solar, B-Battery, H-HPWH, I-Induction Stove). Selections in the top two dropdown menus will filter and update the heatmaps. Hovering over a particular day in the heatmap will reveal the date and the total GHG value for that day.**
 
@@ -428,15 +432,19 @@ In the final year of the project evaluation period - 2024 - which roughly corres
 When taken together, these findings indicate that the AH program’s measure packages were effective at significantly reducing total combined energy expenditures at the cohort level. And though the proportional share of remaining expenditures shifted somewhat from gas to electricity, the significant increases in the efficiency of the new substitute electrical technologies was more than sufficient to offset the significant price differences between gas and electricity per unit of energy consumed.
 
 ![][image19]
+
 **Figure 17. Monthly and annual total gas and net electricity expenditures for the entire AH cohort expressed in dollars-$.**
 
 An important feature of note in Figure 17 that warrants further discussion has to do with the appearance of negative expenditures for gas in the month of April for both the 2022 and 2024 data years. These negative expenditures occur due to the gas utility’s disbursement of California Climate Credit funds, which are the result of net-proceeds of the state’s GHG emissions cap and trade program. These funds appear as an on-bill credit for qualifying customers each year at this time. For these two years, the size of these credits were more than sufficient to offset the cohort’s total gas bills, resulting in net payments. 2023 is somewhat anomalous in this regard as this characteristic dip in April is not present. We believe that this is due to a significant spike in the commodity price for gas which occurred in January 2023. This price increase is well illustrated by the plot in Figure 18, below, which shows the SoCal Gas resource procurement rate over the project’s period of evaluation. In January of 2023, due to commodity market conditions, this procurement rate increased to ~5x from previous historical levels. These resource procurement rates have since stabilized to levels that are even somewhat lower than those observable prior to January of 2023.
 
 ![][image20]
+
 **Figure 18. SoCal Gas resource procurement rate (cents per therm) over the BAAEC AH program implementation period.**
 
 Figure 19 below provides a more granular household level view of AH program participant electricity and gas bill expenditures, presented in a similar format to that previously provided in Figure 5 for household energy use. Here again, the timing of different program interventions is plotted for context. It is perhaps worth noting that the variability in bill expenditures between participant households is much greater for net-electricity usage than it is for gas. As household size (e.g. number of occupants) is not implicitly controlled for in this comparison, it is likely that these differences are, at least in part, attributable to the role of dynamic pricing for electricity and the effect which that has upon different individual households’ bills due to their characteristic temporal patterns of consumption.
+
 ![][image21]
+
 **Figure 19. Granular time series plots of individual AH participant household net electricity and gas expenditures relative to the timing of implementation of different AH program measures. Average expenditures, across all households, are plotted as a thick black line relative to each usage time series. Likewise, the median dates of completion for each measure category are plotted as thick colored vertical lines, relative to each measure time series. These median dates are extended as broken lines relative to each usage time series for context.**
 
 The series of sub-plots in Figure 20, below, attempts to tell the complete story of gas and electricity bill savings resulting from households’ participation in the AH program. The three sub-plots in the upper portion of the figure depict a series of box-plots which capture the electricity, gas, and total combined bill savings calculated between the pre-and-post intervention periods for each household for each month. The sub-plot at the bottom of the figure provides a bar chart which depicts the percentage of program participant households for whom their specific pre-and-post period dates permitted the making of such comparisons for each month. In other words, this sub-plot shows how the effective sample size associated with the corresponding box-plots is not uniform across the months - with fewer savings comparisons being able to be made in the earlier portion of the year. The inset text boxes positioned to the right-hand side of the three upper subplots provide important summary statistics about the average savings for each associated category of energy expenditures.
@@ -452,10 +460,13 @@ Additionally, through the course of the program’s implementation period the CP
 ### Net-Zero Electricity Status {#net-zero-electricity-status-1}
 
 Figure 21, below, plots the ratio of grid electricity deliveries to exports for each AH participant household (light shaded lines) as well as the average for the entire participant cohort (dark shaded line) over the project’s evaluation period. Here, it is worth noting that the different household level data series begin at different points in time. This is due to the fact that type of net calculation can only be performed once their solar PV system had been installed and thus net-exports were possible. The broken horizontal line plotted at 100% depicts the threshold cutoff associated with the achievement of net-zero electricity status. Here we can see that while many individual households were able to achieve this status at some stage, none of them were able to sustain it continuously through the end of the evaluation period. At the cohort level, there were similarly some individual months over which net-zero electricity status was achieved, on average, across all participants. However, this was similarly not able to be sustained for more than months in succession.
+
 ![][image23]
+
 **Figure 21. Ratio of grid electric power deliveries to exports for each month in the project evaluation period. The light shaded lines reflect individual households, while the thick black line reflects the average for the cohort as a whole. The staggered appearance of individual household data reflects the variable timelines of solar PV system installs across the cohort. The broken horizontal line corresponds to the threshold ratio corresponding to net-zero electricity status.**
 
 Figure 22, below, plots similar data for the number of AH program participant homes that achieved net-zero electricity status over the course of the project’s evaluation period, only instead at a daily time interval. Here we can see the highest concentration of participants were able to successfully net-out the daily grid electricity consumption in the months of April, May, and June. For a subset of the days within these months as many as 18 of the 34 homes achieved net-zero electricity status.
+
 ![][image24]
 
 **Figure 22. Heatmap depicting the daily count of AH participant households that reached net-zero electricity status within each of their respective post-intervention periods. The lightest green color represents a single AH participant household reaching net-zero electricity status in a day while the darkest green represents a maximum of 18 AH participant households reaching net-zero electricity status in a single day (indicated with white asterisks).**
@@ -469,7 +480,9 @@ Rooftop PV system sizing is a process that must respect various site-specific co
 ![][image25]
 
 **Figure 23. Count days of net zero electricity status per AH participant household, colored by intervention and bins of 30 days.**
+
 ![][image26]
+
 **Figure 24. Bar chart comparing the percent of post-intervention days in which households across intervention configurations achieved net zero electricity status.**
 
 ## Conclusions {#conclusions}
@@ -530,6 +543,7 @@ The CPA, as the implementor of this new CSGT, initially specified a set of custo
 Figure 25, below, shows the location of the two adjacent BAAEC CS sites located within the city of Pico Rivera. A five mile buffer (red) has been plotted around the two sites. The intersection of this buffer and the CPA service territory (purple) can generally be regarded as the geography which contains the set of CPA customers that would be considered eligible for enrollment in the CSGT as part of the project - though obviously, in addition to this, other individualized screens would apply. As the figure shows, this buffer area intersects with the four census tracts that were originally designated as the BAAEC project’s eligibility area (though this was later significantly expanded). While representatives of the CPA indicated that they do specifically associate individual CSGT participant customers with specific generation projects, we do not know who these customers are and how many of them may specifically be located within the BAAEC tracts. This is a fundamental limitation of the data available for this analysis and a consequence of the CPA’s customer privacy protection policies.
 
 ![][image27]
+
 **Figure 25. Map illustrating the location of the two BAAEC Community Solar generation sites relative to the location of the project’s original and subsequently expanded focus areas, as well as the boundaries of Clean Power Alliance’s service territory.**
 
 #### Measures {#measures-1}
@@ -578,7 +592,9 @@ The proxy site which was selected has a nameplate rating capacity of 106.08 kW-D
 ### Modeled System Outputs {#modeled-system-outputs}
 
 Figure 26, below, plots the modeled output of the BAAEC system over the project’s full period of evaluation aggregated at hourly (top) and monthly (bottom) intervals. Note that the specific period of performance that will be used for subsequent EM&V analyses is the 2024 calendar year. As Figure 26 illustrates, based upon the hourly output of the proxy system, we anticipate that the BAAEC CS sites would have output between 47 and 138 MWh per month in 2024. Annually, this expected system output would total to 1,163 MWh for 2024. This value is thus the basis of comparison for the evaluation of the system’s capability to effectively net-out the electricity consumption of CSGT program enrollees.
+
 ![][image28]
+
 **Figure 26. Modeled BAAEC CS system output based upon scaled output data from another Pivot Energy proxy system collected over the project’s full evaluation period.**
 
 ### Net Zero Electricity Status {#net-zero-electricity-status-2}
@@ -590,6 +606,7 @@ Figure 27, below, provides a set of fan plots that illustrate the distribution (
 There are a number of notable features in these plots. Perhaps most significant of which are the significant differences in the range of monthly usage values between single-family and multi-family customers. Multi-family customers, on average, use only about half of the electricity each month as their single-family counterparts. In addition to this, we can also see that the CPA’s estimated average monthly usage value is just a bit lower than (-11.88%) the observed median (~463 kWh/month) for eligible single-family households in our data sample. Looking at similar comparisons to multi-family customer median usage levels (~229 kWh/month), we can see that the CPA’s estimate is significantly higher (+78.17%). As the actual breakdown of single family versus multi-family participants in the BAAEC CSGT participant cohort is not known, these data are important for assessing how potential differences in the cohort’s composition (e.g. the ratio of single-family to multi-family enrollees) could affect the degree to which the full cohort’s energy usage would be able to be offset by the BAAEC’s CS systems’ modeled outputs.
 
 ![][image29]
+
 **Figure 27. Fan plots illustrating the distribution (shown at 5 percentile increments) of monthly electricity usage among CSGT eligible single-family (red) and multi-family (MF) customers in our sampled usage data.**
 
 Figure 28, below, depicts the results of such a comparison that was developed using Monte-Carlo sampling procedures. In this figure, three separate colored histograms are shown. Each of these histograms depicts the distribution of total annual consumption values calculated for 10,000 unique cohorts, with each cohort consisting of 360 CSGT eligible customers - the number which corresponds to the CPA’s target enrollment cap. Each of these cohorts were repeatedly randomly selected from the sample of customer data obtained by the project team through the EDRP.
@@ -599,13 +616,17 @@ The gray histogram illustrates the range of annual usage totals that would be ex
 The solid black vertical line illustrates the total annual consumption that would be expected by multiplying the CPA’s 408 kWh / month average customer usage level by the total number of customers enrolled in the program (n = 360) and the total number of months in the program’s period of performance (12). By comparison, the broken vertical plots the total annual output in 2024 for the model’s BAAEC system based upon a scaling of another local proxy system’s actual measured hourly output.
 
 According to this figure, we can see that the total combined usage for the CS-GT participant cohort, as derived from CPA’s quoted monthly average usage estimates, is significantly larger than the modeled BAAEC system’s output for 2024 (+34.01%). The overlap between the broken vertical line and the range of values spanned by the blue histogram, suggests that the BAAEC CS systems could likely accommodate a cohort consisting of 360 customers, providing that the majority (if not all) of those customers were multi-family property inhabitants. If a significant fraction of the 360 customers who enrolled in the CS-GT lived in single-family properties however, it is unlikely that the BAAEC systems’ output would be sufficient to fully net-out their annual electricity usage.
+
 ![][image30]
+
 **Figure 28. Monte-Carlo simulation results for the estimated total annual electricity consumption for a large number of randomly sampled customer cohorts (n = 360 customers in each cohort). Each cohort was assembled from our dataset of historical account level metered electricity usage data for CSGT eligible customers within the BAAEC geographic focus area. Results are illustrated for 10,000 randomly sampled SF-only cohorts (red), 10,000 randomly sampled MF-only cohorts (blue), and 10,000 randomly sampled Mixed SF & MF cohorts (gray). The modeled annual output of the BAAEC CS system is plotted as a broken vertical line while the CPA’s estimates for the total annual consumption of the actual participant cohort is shown as a solid vertical line.**
 
 ### Electricity Bill Savings {#electricity-bill-savings}
 
 Figure 29, below, plots the range of estimated monthly electricity bill savings attributable to CSGT participation for the same set of sampled customer cohorts described previously in Figure 28. These savings values were calculated by computing 20% of each customer’s monthly bill statement amount prior to enrollment. According to this figure, the average estimated monthly bill savings ranged from $5.50 per month for the MF only cohorts to $17.56 per month for the SF only cohorts, with a value of $11.55 for the mixed SF/MF cohort group.
+
 ![][image31]
+
 **Figure 29. Estimated ranges of monthly electricity bill savings from CSGT participation for the previously sampled set of CSGT eligible customer cohorts, with the corresponding averages across each group of cohorts reported.**
 
 ### Avoided GHG Emissions  {#avoided-ghg-emissions}
@@ -613,7 +634,9 @@ Figure 29, below, plots the range of estimated monthly electricity bill savings 
 Figure 30 below plots the avoided GHG emissions (in CO2 equivalents) attributable to the modeled BAAEC system’s output for 2024, aggregated at an hourly (top) and monthly (bottom) interval. The avoided emissions estimates were computed by matching the hourly modeled output of the BAAEC systems to the marginal GHG emissions intensity factors for each corresponding hour obtained from data provider WattTime through the SGIP program.
 
 There are several interesting features of note in this figure. Firstly is the large range of variability in the magnitudes of hourly avoided emissions, both on a daily and seasonal basis. This reflects the wide range of GHG emissions intensities of grid power due to variable outputs of renewable generation assets - and thus, the continued use of fast ramping fossil generation assets to cover the remaining net loads. Overall, the months with the largest magnitudes of avoided GHG emissions occur in the summer. This is generally due to the larger amounts of incident solar radiation available in these months, as well as the higher emissions intensities of grid power consumption during contemporaneous peak demand periods (e.g. those associated with cooling loads).
+
  ![][image32]
+
 **Figure 30. Avoided GHG emissions (in CO2 Equivalents) associated with the modeled output of the BAAEC Community Solar PV System for the year 2024.**
 
 The total avoided GHG emissions associated with the modeled output of the BAAEC CS sites for 2024 were computed to be 264 metric tons of avoided CO2 equivalent emissions. This equates to approximately 733 kg of avoided CO2 eq per household enrolled in the CS-GT program for that year. This value compares quite favorably with the 829 kg of avoided CO2 eq per household associated with the AH program, particularly given the relative difference in the average size of the nameplate solar PV system capacity allocations per customer between the two programs and the fact that the AH program included other load modifying measures.
@@ -631,7 +654,6 @@ The principal challenges associated with the implementation of the BAAEC CS prog
 * **Community Solar programs can be highly successful at developing local, community scale, renewable generation assets whose outputs are sufficient to offset the full energy usage of a large number (hundreds) of customers. These benefits can either be allocated to customers on a fixed basis as a percentage of their usage, as with the CSGT’s 20% on-bill reduction, or through more sophisticated virtual net energy metering (VNEM) used in some other programs.**
 
 * **The two BAAEC CS projects were the first developed under the CPA’s Community Solar Green Tariff program. The CPA has recently reported that two new projects are slated to come online in the future; however, these will be folded into a newly revised Disadvantaged Community Green Tariff DAC-GT program.[^9] This is per the terms of a recent CPUC decision, which effectively terminated the CSGT.**
-
 
 * **Program participation can be accomplished via auto-enrollment processes that explicitly target customers who would otherwise be considered very “hard to reach” through more typical program designs. This has significant benefits from equity and justice perspectives and can provide a meaningful approach to countering criticisms to the “cost shift” argument against spending on solar program incentives.**
 
