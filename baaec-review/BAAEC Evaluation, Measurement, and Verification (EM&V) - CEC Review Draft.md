@@ -346,7 +346,7 @@ Figure 7 below provides a more granular view of consumption for the AH program p
 ![][image7]
 **Figure 7\. Daily net electricity consumption in kBTU per AH Participant Household colored by year. Average daily net electricity consumption for the entire cohort is plotted in thick solid lines. The top graph features the entire extent of usage while the bottom graph has a truncated y-axis to highlight daily change in the cohort average. Negative usage values indicate net-exports of power back to the grid.**
 
-There are several interesting results which can be gleaned from these plots. The first is that even for a small participant cohort such as this (n \= 34), the range of variation in individual average daily net-electricity loads can vary 5x more than the average across the entire cohort. This speaks to the level of variability in the energy demands among individual households, even ones which share important structural characteristics, such as those depicted here which all met the eligibility requirements for participation in the AH program. Another important finding visible from these plots is that at the individual household level the largest single day net-exports of power occur in the summer months of August and September. However, across the entire cohort, more power tends to be exported in the spring months of April and May - a trend that is consistent with previously published findings about seasonal variability in the output of residential solar PV systems relative to household electricity demands.[^7] Here again, the large single day exports for specific customers in those two summer months is due to the work of the battery storage systems discharging for TOU rate arbitrage.
+There are several interesting results which can be gleaned from these plots. The first is that even for a small participant cohort such as this (n = 34), the range of variation in individual average daily net-electricity loads can vary 5x more than the average across the entire cohort. This speaks to the level of variability in the energy demands among individual households, even ones which share important structural characteristics, such as those depicted here which all met the eligibility requirements for participation in the AH program. Another important finding visible from these plots is that at the individual household level the largest single day net-exports of power occur in the summer months of August and September. However, across the entire cohort, more power tends to be exported in the spring months of April and May - a trend that is consistent with previously published findings about seasonal variability in the output of residential solar PV systems relative to household electricity demands.[^7] Here again, the large single day exports for specific customers in those two summer months is due to the work of the battery storage systems discharging for TOU rate arbitrage.
 
 Figure 8, below, plots similar data for the AH program participant cohort’s daily gas consumption. Here again, in the upper sub-plot, we can see that there is an even larger range of variation in household level daily gas usage rates than for electricity. This variation is particularly in winter months with high heating energy demands, suggesting a wide range of variance in the thermal performance of participant homes’ thermal shells as well as in the end-use energy efficiency of their installed gas heating equipment. Looking at the lower sub-plot in this same figure, we can see that the implementation of fuel substitution measures associated with the AH program did not significantly alter the structure of seasonal variation in gas demand between the three years, Rather, these measures appear to have effected uniform demand reductions throughout the entire year (2024). This is consistent with the fact that the program’s two fuel-substitution measures, HPHWs and induction stoves, are not associated with significant seasonal variations in their gas use.
 
@@ -583,7 +583,7 @@ Figure 26, below, plots the modeled output of the BAAEC system over the project�
 
 ### Net Zero Electricity Status {#net-zero-electricity-status-2}
 
-Because we do not know which specific CPA customers enrolled in the CSGT program were associated with the BAAEC CS systems, we need to rely on statistical approaches to evaluate the loads that would likely be associated with a cohort of customers of the size prescribed by the CPA (n \= 360). To do this, we developed a Monte Carlo Sampling procedure using the sample of customer level electricity usage data that was obtained from SCE through our EDRP request.
+Because we do not know which specific CPA customers enrolled in the CSGT program were associated with the BAAEC CS systems, we need to rely on statistical approaches to evaluate the loads that would likely be associated with a cohort of customers of the size prescribed by the CPA (n = 360). To do this, we developed a Monte Carlo Sampling procedure using the sample of customer level electricity usage data that was obtained from SCE through our EDRP request.
 
 Figure 27, below, provides a set of fan plots that illustrate the distribution (shown at 5 percentile increments) of monthly electricity usage among CSGT eligible single-family (red) and multi-family customers in our sample data. In both sub-plots the cohort median (across all months) is plotted as a black broken line, while the fixed monthly usage value used by CPA in the program’s design (408 kWh / month) is plotted as a black solid line.
 
@@ -596,11 +596,11 @@ Figure 28, below, depicts the results of such a comparison that was developed us
 
 The gray histogram illustrates the range of annual usage totals that would be expected from 10,000 sampled customer cohorts for which no categorical filters were applied. Thus, the gray histogram can be thought of as representing cohorts made up of a mixture of both SF and MF customers, in different ratios. Alternatively, the red and blue histograms depict the range of annual total usage values derived from 10,000 sampled customer cohorts that were restricted to SF and MF customers only, respectively. The differences in the distribution of usage values for each of these histograms reflects the significant differences in both the average and range of monthly usage values among SF and MF customers within the BAAEC project’s eligibility area.
 
-The solid black vertical line illustrates the total annual consumption that would be expected by multiplying the CPA’s 408 kWh / month average customer usage level by the total number of customers enrolled in the program (n \= 360\) and the total number of months in the program’s period of performance (12). By comparison, the broken vertical plots the total annual output in 2024 for the model’s BAAEC system based upon a scaling of another local proxy system’s actual measured hourly output.
+The solid black vertical line illustrates the total annual consumption that would be expected by multiplying the CPA’s 408 kWh / month average customer usage level by the total number of customers enrolled in the program (n = 360\) and the total number of months in the program’s period of performance (12). By comparison, the broken vertical plots the total annual output in 2024 for the model’s BAAEC system based upon a scaling of another local proxy system’s actual measured hourly output.
 
 According to this figure, we can see that the total combined usage for the CS-GT participant cohort, as derived from CPA’s quoted monthly average usage estimates, is significantly larger than the modeled BAAEC system’s output for 2024 (+34.01%). The overlap between the broken vertical line and the range of values spanned by the blue histogram, suggests that the BAAEC CS systems could likely accommodate a cohort consisting of 360 customers, providing that the majority (if not all) of those customers were multi-family property inhabitants. If a significant fraction of the 360 customers who enrolled in the CS-GT lived in single-family properties however, it is unlikely that the BAAEC systems’ output would be sufficient to fully net-out their annual electricity usage.
 ![][image30]
-**Figure 28\. Monte-Carlo simulation results for the estimated total annual electricity consumption for a large number of randomly sampled customer cohorts (n \= 360 customers in each cohort). Each cohort was assembled from our dataset of historical account level metered electricity usage data for CSGT eligible customers within the BAAEC geographic focus area. Results are illustrated for 10,000 randomly sampled SF-only cohorts (red), 10,000 randomly sampled MF-only cohorts (blue), and 10,000 randomly sampled Mixed SF & MF cohorts (gray). The modeled annual output of the BAAEC CS system is plotted as a broken vertical line while the CPA’s estimates for the total annual consumption of the actual participant cohort is shown as a solid vertical line.**
+**Figure 28\. Monte-Carlo simulation results for the estimated total annual electricity consumption for a large number of randomly sampled customer cohorts (n = 360 customers in each cohort). Each cohort was assembled from our dataset of historical account level metered electricity usage data for CSGT eligible customers within the BAAEC geographic focus area. Results are illustrated for 10,000 randomly sampled SF-only cohorts (red), 10,000 randomly sampled MF-only cohorts (blue), and 10,000 randomly sampled Mixed SF & MF cohorts (gray). The modeled annual output of the BAAEC CS system is plotted as a broken vertical line while the CPA’s estimates for the total annual consumption of the actual participant cohort is shown as a solid vertical line.**
 
 ### Electricity Bill Savings {#electricity-bill-savings}
 
@@ -665,9 +665,9 @@ Without reviewing all of the party comments to this decision, the CPUC justified
 
 # Appendix A {#appendix-a}
 
-\====================================================================================================
+====================================================================================================
 Pre-Implementation - Electricity - Breakpoint Regression Results
-\====================================================================================================
+====================================================================================================
 No. Observations                   178311
 No. Model Parameters                    4
 Degrees of Freedom                 178307
@@ -676,7 +676,7 @@ Total Sum of Squares          1.68978e+05
 R Squared                        0.123832
 Adjusted R Squared               0.123812
 Converged:                           True
-\====================================================================================================
+====================================================================================================
                     Estimate      Std Err            t        P\>|t|       \[0.025       0.975\]
 ----------------------------------------------------------------------------------------------------
 const               0.835857       0.0127       65.938           0.0      0.81101       0.8607
@@ -687,14 +687,14 @@ breakpoint1          19.4741       0.0604            -             -       19.35
 These alphas (gradients of segments) are estimated from betas (change in gradient)
 ----------------------------------------------------------------------------------------------------
 alpha2              0.110853     0.000921       120.42           0.0      0.10905      0.11266
-\====================================================================================================
+====================================================================================================
 Davies test for existence of at least 1 breakpoint: p=1.12106e-118 (e.g. p\<0.05 means reject null
 hypothesis of no breakpoints at 5% significance)
-\====================================================================================================
+====================================================================================================
 
-\====================================================================================================
+====================================================================================================
 Post-Implementation - Electricity - Breakpoint Regression Results
-\====================================================================================================
+====================================================================================================
 No. Observations                   217376
 No. Model Parameters                    4
 Degrees of Freedom                 217372
@@ -703,8 +703,8 @@ Total Sum of Squares          3.59608e+05
 R Squared                        0.026971
 Adjusted R Squared               0.026953
 Converged:                           True
-\====================================================================================================
-\====================================================================================================
+====================================================================================================
+====================================================================================================
                     Estimate      Std Err            t        P\>|t|       \[0.025       0.975\]
 ----------------------------------------------------------------------------------------------------
 const                1.12677       0.0111        101.1           0.0       1.1049       1.1486
@@ -715,18 +715,18 @@ breakpoint1            27.53         0.09            -             -       27.35
 These alphas(gradients of segments) are estimated from betas(change in gradient)
 ----------------------------------------------------------------------------------------------------
 alpha2              0.133287      0.00362       36.824      6.4e-296      0.12619      0.14038
-\====================================================================================================
+====================================================================================================
 Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p\<0.05 means reject null hypothesis
 of no breakpoints at 5% significance)
-\====================================================================================================
+====================================================================================================
 
 #
 
 # Appendix B {#appendix-b}
 
-\====================================================================================================
+====================================================================================================
 Pre-Implementation - Gas - Breakpoint Regression Results
-\====================================================================================================
+====================================================================================================
 No. Observations                   178311
 No. Model Parameters                    4
 Degrees of Freedom                 178307
@@ -735,7 +735,7 @@ Total Sum of Squares              618.637
 R Squared                        0.038986
 Adjusted R Squared               0.038965
 Converged:                           True
-\====================================================================================================
+====================================================================================================
                     Estimate      Std Err            t        P\>|t|       \[0.025       0.975\]
 ----------------------------------------------------------------------------------------------------
 const              0.0964678     0.000939        102.7           0.0     0.094627     0.098309
@@ -746,14 +746,14 @@ breakpoint1          17.7233        0.135            -             -       17.45
 These alphas (gradients of segments) are estimated from betas (change in gradient)
 ----------------------------------------------------------------------------------------------------
 alpha2          -0.000382135     4.77e-05      -8.0082      1.17e-15  -0.00047566  -0.00028861
-\====================================================================================================
+====================================================================================================
 Davies test for existence of at least 1 breakpoint: p=5.22843e-72 (e.g. p\<0.05 means reject null
 hypothesis of no breakpoints at 5% significance)
-\====================================================================================================
+====================================================================================================
 
-\====================================================================================================
+====================================================================================================
 Post-Implementation - Gas - Breakpoint Regression Results
-\====================================================================================================
+====================================================================================================
 No. Observations                   217376
 No. Model Parameters                    4
 Degrees of Freedom                 217372
@@ -762,7 +762,7 @@ Total Sum of Squares              464.851
 R Squared                        0.025798
 Adjusted R Squared               0.025781
 Converged:                           True
-\====================================================================================================
+====================================================================================================
                     Estimate      Std Err            t        P\>|t|       \[0.025       0.975\]
 ----------------------------------------------------------------------------------------------------
 const              0.0605771     0.000683       88.712           0.0     0.059239     0.061915
@@ -773,10 +773,10 @@ breakpoint1          17.9892        0.127            -             -        17.7
 These alphas(gradients of segments) are estimated from betas(change in gradient)
 ----------------------------------------------------------------------------------------------------
 alpha2          -0.000110723     3.56e-05      -3.1109       0.00187  -0.00018048  -4.0963e-05
-\====================================================================================================
+====================================================================================================
 Davies test for existence of at least 1 breakpoint: p=0.0 (e.g. p\<0.05 means reject null hypothesis
 of no breakpoints at 5% significance)
-\====================================================================================================
+====================================================================================================
 
 [^1]:  Please see Case Study and Residential Energy Systems Report for details on delays
 
