@@ -341,7 +341,7 @@ While greater reductions for the cohort can be seen in the months of June, July,
 
 Figure XX helps to demonstrate how the variable length of their individual periods of performance contributed to important differences in the calculated net GHGs emissions changes across the AEH participant. The majority of days available for evaluation are in the months from August to December, followed by summer months. The inconsistency results in an uneven aggregation of GHG changes at the cohort level. This effect is particularly noticeable on certain days in January and February, which show increases in GHGs despite only 6 households with available data.
 
-![][image13]
+<tableau-viz id="tableauViz-AvailableDays" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/AvailableDays" width="700" height="500" toolbar="hidden"></tableau-viz>
 
 **Figure XX. Plot of the count of AEH participant Households with available days in both the pre and post period for evaluation in the net greenhouse gas change assessment colored by the cohort’s absolute daily change for any particular, available day.**
 
@@ -353,7 +353,7 @@ The histograms provided in interactive Figure XX illustrate the distributions of
 
 Interactive Figure XX allows for the inspection of changes in daily GHGs emissions associated with both net-electricity usage (left) and net-electricity \+ gas usage (right) for individual AEH participant households. These plots can be filtered according to distinct measure packages and illustrate key measure implementation dates. Depending on the packages and implementation order, these heatmaps can help reveal, for instance, reductions in GHGs associated with electricity exports after the installation of solar, the increase in GHGs with the installation of a HPWH, and the accompanied decreases in GHGs associated with the substitution for gas. In the static example above, July, August, and September of 2023 following solar installation reveal GHG reductions, which, with some exception days, are generally increased again the following year after the HPWH installation.
 
-<tableau-viz id="tableauViz-ghgheatmaps" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/ghgheatmaps" width="700" height="800" toolbar="hidden"></tableau-viz>
+<tableau-viz id="tableauViz-ghgheatmaps" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/ghgheatmaps" width="770" height="770" toolbar="hidden"></tableau-viz>
 
 **Figure XX. Heatmaps of daily Greenhouse Gas (GHG) emissions in kg of CO2 equivalents for AEH program participant households. Negative GHG values (in blue) indicate net reductions in GHGs due to exports of electricity back to the grid. Positive GHG values are colored by an orange-red gradient. The bottom two rows of values represent the annual GHG totals and the change in annual GHG totals from the previous year. Intervention labels indicate the PTO or install date for each of the participant’s measures (S-Solar, B-Battery, H-HPWH, I-Induction Stove). Selections in the top two dropdown menus will filter and update the heatmaps. Hovering over a particular day in the heatmap will reveal the date and the total GHG value for that day.**
 
@@ -403,15 +403,15 @@ Figure XX plots the ratio of grid electricity deliveries to exports for each AEH
 
 Figure XX plots similar data for the number of AEH program participant homes that achieved net-zero electricity status over the course of the project’s evaluation period, only instead at a daily time interval. Here we can see the highest concentration of participants were able to successfully net-out the daily grid electricity consumption in the months of April, May, and June. For a subset of the days within these months as many as 18 of the 34 homes achieved net-zero electricity status.
 
-![][image21]
+<tableau-viz id="tableauViz-HeatmapNZ" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/HeatmapNZ" width="450" height="550" toolbar="hidden"></tableau-viz>
 
 **Figure XX. Heatmap depicting the daily count of AEH participant households that reached net-zero electricity status within each of their respective post-intervention periods. The lightest green color represents a single AEH participant household reaching net-zero electricity status in a day while the darkest green represents a maximum of 18 AEH participant households reaching net-zero electricity status in a single day (indicated with white asterisks).**
 
 Figures XX and XX below provides a different perspective on these same daily net-zero electricity attainment count statistics, depicting the total number of days achieved according to the different combinations of measures received by the participant households and the percentage of post-implementation period days over which net-zero status was attained, respectively. Interestingly, the individual households which achieved the largest number of net-zero electricity days over the project’s evaluation period were those which only opted to receive solar PV systems through the program. There are a number of potential explanations for this fact, however the effective sample size of this sub-group is so small that it cannot be considered a statistically significant finding. Another interesting feature of this plot is the fact that the homes with the smallest number of days over which net-zero electricity status was attained were all those which opted for fuel-substitution measures as part of their participation in the program. This can perhaps be explained by the fact that solar PV system sizing guidelines are based upon meeting, but not exceeding, a customer’s historical energy loads. Thus, if new loads were introduced after those systems were installed, they may be insufficiently sized to reliably net-out their demand for grid electricity. Of course, with this, as with all of the analysis discussed in this report, it is important to keep in mind the potentially confounding effects of variations in the periods of performance for each household, as previously discussed.
 
-![][image22]
+<tableau-viz id="tableauViz-NetZeroCnt" src="https://public.tableau.ucla.edu/views/BAAEC-AEH/NetZeroCnt" width="700" height="350" toolbar="hidden"></tableau-viz>
 
-**Figure XX. Count days of net zero electricity status per AEH participant household, colored by intervention and bins of 30 days.**
+**Figure XX. Count of days of net zero electricity status per AEH participant household, colored by intervention and bins of 30 days.**
 
 ![][image23]
 
