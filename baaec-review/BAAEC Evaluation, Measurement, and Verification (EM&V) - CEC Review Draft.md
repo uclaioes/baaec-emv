@@ -9,17 +9,17 @@ layout: page
 
 **Authors:**
 
-Dr. Eric D. Fournier ✝
-Julia Skrovan ✝
-Robert Cudd ✝
+Dr. Eric D. Fournier <sup>†</sup><br>
+Julia Skrovan <sup>†</sup><br>
+Robert Cudd <sup>†</sup>
 
 **Other Contributors:**
 
-Spencer Mathews ✝
+Spencer Mathews <sup>†</sup>
 
 **Affiliations:**
 
-✝ - The California Center for Sustainable Communities (CCSC) at the University of California Los Angeles (UCLA)
+† - The California Center for Sustainable Communities (CCSC) at the University of California Los Angeles (UCLA)
 
 **Date:**
 
