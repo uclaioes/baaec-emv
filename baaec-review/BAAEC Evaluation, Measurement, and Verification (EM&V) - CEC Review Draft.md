@@ -823,7 +823,6 @@ of no breakpoints at 5% significance)
 
 [image32]: {{ "/assets/images/image13.png" | relative_url }}
 
-
 <script type="module">
 
   // import { TableauEventType } from 'https://public.tableau.ucla.edu/javascripts/api/tableau.embedding.3.latest.min.js';
