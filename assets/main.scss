@@ -32,6 +32,10 @@ $on-laptop:        800px;
 
 // Custom styles for report.
 
+html, body, main {
+    overflow-x: hidden;  // Prevent invisible overflow caused by centering wide images.
+}
+
 img {
     width: 100%;  // Make images grow to the wrapper content width.
     max-width: initial;  // Unset max-width because now width is set.
@@ -45,8 +49,4 @@ img.wide {
     position: relative;
     left: 50%;
     transform: translateX(-50%);
-}
-
-html, body, main {
-    overflow-x: hidden;  // Prevent invisible overflow caused by centering wide images.
 }
