@@ -759,69 +759,69 @@ of no breakpoints at 5% significance)
 
 [^10]:  CPUC Decision 24-05-065. DECISION MODIFYING GREEN ACCESS PROGRAM TARIFFS AND ADOPTING A COMMUNITY RENEWABLE ENERGY PROGRAM. Published: May 30, 2024. Accessed: November 13, 2024. [https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M533/K188/533188781.PDF](https://docs.cpuc.ca.gov/PublishedDocs/Published/G000/M533/K188/533188781.PDF)
 
-[image1]:
+[image1]: {{ "/assets/images/image14.png" | relative_url }}
 
-[image2]:
+[image2]: {{ "/assets/images/image16.png" | relative_url }}
 
-[image3]:
+[image3]: {{ "/assets/images/image12.png" | relative_url }}
 
-[image4]:
+[image4]: {{ "/assets/images/image2.png" | relative_url }}
 
-[image5]:
+[image5]: {{ "/assets/images/image26.png" | relative_url }}
 
-[image6]:
+[image6]: {{ "/assets/images/image9.png" | relative_url }}
 
-[image7]:
+[image7]: {{ "/assets/images/image5.png" | relative_url }}
 
-[image8]:
+[image8]: {{ "/assets/images/image30.png" | relative_url }}
 
-[image9]:
+[image9]: {{ "/assets/images/image18.png" | relative_url }}
 
-[image10]:
+[image10]: {{ "/assets/images/image20.png" | relative_url }}
 
-[image11]:
+[image11]: {{ "/assets/images/image21.png" | relative_url }}
 
-[image12]:
+[image12]: {{ "/assets/images/image3.png" | relative_url }}
 
-[image13]:
+[image13]: {{ "/assets/images/image17.png" | relative_url }}
 
-[image14]:
+[image14]: {{ "/assets/images/image31.png" | relative_url }}
 
-[image15]:
+[image15]: {{ "/assets/images/image28.png" | relative_url }}
 
-[image16]:
+[image16]: {{ "/assets/images/image24.png" | relative_url }}
 
-[image17]:
+[image17]: {{ "/assets/images/image7.png" | relative_url }}
 
-[image18]:
+[image18]: {{ "/assets/images/image10.png" | relative_url }}
 
-[image19]:
+[image19]: {{ "/assets/images/image31.png" | relative_url }}
 
-[image20]:
+[image20]: {{ "/assets/images/image8.png" | relative_url }}
 
-[image21]:
+[image21]: {{ "/assets/images/image11.png" | relative_url }}
 
-[image22]:
+[image22]: {{ "/assets/images/image15.png" | relative_url }}
 
-[image23]:
+[image23]: {{ "/assets/images/image19.png" | relative_url }}
 
-[image24]:
+[image24]: {{ "/assets/images/image1.png" | relative_url }}
 
-[image25]:
+[image25]: {{ "/assets/images/image22.png" | relative_url }}
 
-[image26]:
+[image26]: {{ "/assets/images/image29.png" | relative_url }}
 
-[image27]:
+[image27]: {{ "/assets/images/image25.png" | relative_url }}
 
-[image28]:
+[image28]: {{ "/assets/images/image6.png" | relative_url }}
 
-[image29]:
+[image29]: {{ "/assets/images/image27.png" | relative_url }}
 
-[image30]:
+[image30]: {{ "/assets/images/image4.png" | relative_url }}
 
-[image31]:
+[image31]: {{ "/assets/images/image23.png" | relative_url }}
 
-[image32]:
+[image32]: {{ "/assets/images/image13.png" | relative_url }}
 
 
 <script type="module">
