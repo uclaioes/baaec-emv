@@ -795,7 +795,7 @@ of no breakpoints at 5% significance)
 
 [image18]: {{ "/assets/images/image10.png" | relative_url }}
 
-[image19]: {{ "/assets/images/image31.png" | relative_url }}
+[image19]: {{ "/assets/images/image32.png" | relative_url }}
 
 [image20]: {{ "/assets/images/image8.png" | relative_url }}
 
